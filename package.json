@@ -3,7 +3,7 @@
   "displayName": "Aseprite Importer",
   "version": "1.0.0",
   "unity": "2019.2",
-  "unityRelease": "0a19",
+  "unityRelease": "0f1",
   "description": "An Aseprite importer for Unity3D. 🎨📤",
   "documentationUrl": "https://aseprite.faster-games.com/",
   "changelogUrl": "https://github.com/faster-games/aseprite/blob/main/CHANGELOG.md",
