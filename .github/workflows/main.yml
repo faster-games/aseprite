@@ -63,7 +63,7 @@ jobs:
         uses: bengreenier-actions/Unity-Package-Exporter@v1.0.0
         with:
           packagePath: ./
-          outputPackagePath: dist/com.faster-games.t4.unitypackage
+          outputPackagePath: dist/com.faster-games.aseprite.unitypackage
       - uses: bengreenier-actions/docfx-action@v1.0.0
         name: Build docs
         with:
@@ -75,7 +75,7 @@ jobs:
         with:
           email: ben@bengreenier.com
           build_dir: dist/docs
-          cname: t4.faster-games.com
+          cname: aseprite.faster-games.com
           jekyll: no
       - name: Publish Release
         uses: codfish/semantic-release-action@v1
