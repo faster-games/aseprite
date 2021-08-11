@@ -1,0 +1,23 @@
+{
+  "name": "com.faster-games.aseprite",
+  "displayName": "Aseprite Importer",
+  "version": "1.0.0",
+  "unity": "2019.2",
+  "unityRelease": "0a19",
+  "description": "An Aseprite importer for Unity3D. 🎨📤",
+  "documentationUrl": "https://aseprite.faster-games.com/",
+  "changelogUrl": "https://github.com/faster-games/aseprite/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/faster-games/aseprite/blob/main/LICENSE.md",
+  "keywords": [
+    "faster-games",
+    "aseprite"
+  ],
+  "dependencies": {
+    "com.unity.2d.sprite": "1.0.0"
+  },
+  "author": {
+    "name": "Ben Greenier",
+    "email": "ben+faster-games@bengreenier.com",
+    "url": "https://bengreenier.com"
+  }
+}
