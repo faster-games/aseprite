@@ -1,0 +1,142 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Aseprite | Aseprite </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Aseprite | Aseprite ">
+    <meta name="generator" content="docfx 2.56.7.0">
+    <meta name="description" content="An Aseprite importer for Unity3D">
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="stylesheet" href="styles/docfx.vendor.css">
+    <link rel="stylesheet" href="styles/docfx.css">
+    <link rel="stylesheet" href="styles/main.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"> 
+    <meta property="docfx:navrel" content="toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+    
+  </head>  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="index.html">
+                <img id="logo" class="svg" src="logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        <div class="article row grid">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="aseprite">Aseprite</h1>
+
+<p>An Aseprite importer for Unity3D. 🎨📤</p>
+<p><img src="header.png" alt="Project logo; A pink package on a grey background, next to the text &quot;T4 Templates&quot; in purple"></p>
+<p><img src="https://img.shields.io/github/package-json/v/faster-games/aseprite" alt="GitHub package.json version">
+<a href="https://openupm.com/packages/com.faster-games.aseprite/"><img src="https://img.shields.io/npm/v/com.faster-games.aseprite?label=openupm&amp;registry_uri=https://package.openupm.com" alt="openupm"></a>
+<a href="https://github.com/faster-games/aseprite/actions/workflows/main.yml"><img src="https://github.com/faster-games/aseprite/actions/workflows/main.yml/badge.svg" alt="CI"></a>
+<a href="https://discord.gg/QfQE6rWQqq"><img src="https://img.shields.io/discord/862006447919726604" alt="Discord"></a></p>
+<p><a href="https://www.aseprite.org/">Aseprite</a> is an animated sprite editor and pixel art tool. This package supports taking Aseprite files (<code>.ase</code>, <code>.aseprite</code>) and importing them into <a href="http://unity3d.com/">Unity</a>. Most importantly, it preserves layers - importing them individually rather than as a single combined frame. This allows for further customization inside the engine. The importer will also import animations (including frame timings) as both individual animations, and &quot;combined&quot; animations designed to be applied to a top-level <a href="https://docs.unity3d.com/ScriptReference/GameObject.html">Game Object</a> that mirrors the structure of Aseprite layers. If desired, such a Game Object can also be generated during import.</p>
+<h2 id="installing">Installing</h2>
+<p>This package supports <a href="https://openupm.com/packages/com.faster-games.aseprite/">openupm</a> - you can install it using the following command:</p>
+<pre><code>openupm add com.faster-games.aseprite
+</code></pre>
+<p>Or by adding directly to your <code>manifest.json</code>:</p>
+<blockquote>
+<p>Note: You may also use specific versions by appending <code>#{version}</code> where version is a <a href="https://github.com/faster-games/aseprite/releases">Release tag</a> - e.g. <code>#v1.2.0</code>.</p>
+</blockquote>
+<pre><code>dependencies: {
+	...
+	&quot;com.faster-games.aseprite&quot;: &quot;git+https://github.com/faster-games/aseprite.git&quot;
+}
+</code></pre>
+<p>Or by using <a href="https://docs.unity3d.com/Manual/upm-ui-giturl.html">Package Manager</a> to &quot;Add a package from Git URL&quot;, using the following url:</p>
+<pre><code>https://github.com/faster-games/aseprite.git
+</code></pre>
+<h2 id="documentation">Documentation</h2>
+<center>
+<p><a href="https://aseprite.faster-games.com/manual/getting-started.html">Manual 📖</a> | <a href="https://aseprite.faster-games.com/ref/FasterGames.Aseprite.Editor.html">Scripting API 🔎</a></p>
+</center>
+<p>The importer will automatically detect and import aseprite files, so all configuration is optional.
+To modify configuration, select the Aseprite file in the <a href="https://docs.unity3d.com/Manual/ProjectView.html">Project window</a>.</p>
+<h3 id="quickstart">Quickstart</h3>
+<ul>
+<li>Drag a <code>.ase</code> or <code>.aseprite</code> file into the <a href="https://docs.unity3d.com/Manual/ProjectView.html">Project window</a> under <code>Assets</code></li>
+<li>Select it in the <a href="https://docs.unity3d.com/Manual/ProjectView.html">Project window</a></li>
+<li>Note that the importer used is <code>AsepriteImporter</code> - that's us!</li>
+<li>Any processing errors will be shown in the <a href="https://docs.unity3d.com/Manual/Console.html">Console</a></li>
+</ul>
+<h2 id="supporting-the-project">Supporting the project</h2>
+<p>If this project saved you some time, and you'd like to see it continue to be invested in, consider <a href="https://www.buymeacoffee.com/bengreenier">buying me a coffee. ☕</a> I do this full-time, and every little bit helps! 💙</p>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/faster-games/aseprite/blob/main/README.md/#L1" class="contribution-link">Improve this Doc</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            Copyright FasterGames ©
+            
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="styles/docfx.js"></script>
+    <script type="text/javascript" src="styles/main.js"></script>
+  </body>
+</html>

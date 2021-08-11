@@ -1,0 +1,636 @@
+{
+  "homepages": [],
+  "source_base_path": "/github/workspace",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "source_relative_path": "Documentation~/favicon.ico",
+      "output": {
+        "resource": {
+          "relative_path": "favicon.ico"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Documentation~/header.png",
+      "output": {
+        "resource": {
+          "relative_path": "header.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Documentation~/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "np67meaKTrXX1woHu1IYuw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Documentation~/logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "logo.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Documentation~/manual/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/getting-started.html",
+          "hash": "Pn7Fl8ZaZ07QaOHH6I4zmg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Documentation~/manual/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "manual/toc.html",
+          "hash": "VOhtdgAsKfqUMk+l/T2FQg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Documentation~/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "/R313w2v1WEttI708mIl8w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html",
+          "hash": "Ac42aFa7esFkTYazjbMozw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.AsepriteAsset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.AsepriteAsset.html",
+          "hash": "xVz+y+hqjbtc1BovNeSqnw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.AsepriteImporter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.AsepriteImporter.html",
+          "hash": "X+M3gnNgmqGXjM3FOBMetg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.AsepriteImporterEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.AsepriteImporterEditor.html",
+          "hash": "mK6kTdBKRvIiOeAAsU2Wbw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Library.AseFile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Library.AseFile.html",
+          "hash": "O5SOINpfE7jVTZ0/kh1Jww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Library.Chunk.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Chunk.html",
+          "hash": "u9qq9dDdCGooC2g58WLdbA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Library.ChunkType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Library.ChunkType.html",
+          "hash": "iOaG0dXjxXKQSImn7/HpIw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Library.Chunks.CelChunk.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Chunks.CelChunk.html",
+          "hash": "lU1bUfO7luJSxrw2/Sjdkg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Library.Chunks.CelExtraChunk.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Chunks.CelExtraChunk.html",
+          "hash": "FlS7JwfzJzpilXNWAG8dIQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Library.Chunks.CelType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Chunks.CelType.html",
+          "hash": "yu8HJE0J7WFOwX+i12OjFQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Library.Chunks.CompressedCelChunk.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Chunks.CompressedCelChunk.html",
+          "hash": "Lan2eeL4Pohp6UvRmyDWUg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Library.Chunks.FrameTag.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Chunks.FrameTag.html",
+          "hash": "iuXBiElmsRcBeXSrUIn40Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Library.Chunks.FrameTagsChunk.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Chunks.FrameTagsChunk.html",
+          "hash": "+fKBrvnW9i6qJVvaSxmNHw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Library.Chunks.LayerBlendMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Chunks.LayerBlendMode.html",
+          "hash": "xhEC4EEIYqGWO04pskCe1Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Library.Chunks.LayerChunk.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Chunks.LayerChunk.html",
+          "hash": "Iq29e6MuuT6XBF8t+Gfa8g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Library.Chunks.LayerType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Chunks.LayerType.html",
+          "hash": "CTkrIHBDL+R7N2g16CWcuQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Library.Chunks.LinkedCelChunk.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Chunks.LinkedCelChunk.html",
+          "hash": "sr4FfxwFVJs0OND++2xzxg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Library.Chunks.LoopAnimation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Chunks.LoopAnimation.html",
+          "hash": "PT0SROgpG3K5wIB6HxR2jg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Library.Chunks.PaletteChunk.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Chunks.PaletteChunk.html",
+          "hash": "eF7Lm+bJRh0JfixzsOlztg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Library.Chunks.PaletteEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Chunks.PaletteEntry.html",
+          "hash": "nlk8jproNYtlRSNWfjo6AA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Library.Chunks.RawCelChunk.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Chunks.RawCelChunk.html",
+          "hash": "mrlScLqCBrxo0YOkWWLcaA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Library.Chunks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Chunks.html",
+          "hash": "/AB5iGtzNrzAfCOgOtfR9w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Library.ColorDepth.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Library.ColorDepth.html",
+          "hash": "L5ZjBdvKGNX5ISSu1yekeA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Library.Frame.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Frame.html",
+          "hash": "D6goBTnDxWE4tjZ293l2mQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Library.FrameOptions.LayerFilter.LayerFilterType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Library.FrameOptions.LayerFilter.LayerFilterType.html",
+          "hash": "CSJ9PZmPZSIJpgJBi5B9uw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Library.FrameOptions.LayerFilter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Library.FrameOptions.LayerFilter.html",
+          "hash": "VBRAwx+9Hx6YP4UagHXAgw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Library.FrameOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Library.FrameOptions.html",
+          "hash": "btxlFF6RbuFlPpXyCOdTnw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Library.Header.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Header.html",
+          "hash": "42IWoU95yN9/AbSp0eIVOQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Library.Pixel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Pixel.html",
+          "hash": "mwRwbrHq2m8s88j4+tWe0g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Library.PixelFormats.GrayscalePixel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Library.PixelFormats.GrayscalePixel.html",
+          "hash": "sTxvdAJwHCunVaK6v+td9w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Library.PixelFormats.IndexedPixel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Library.PixelFormats.IndexedPixel.html",
+          "hash": "nrtvVYZDGhkinhQl5szVhg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Library.PixelFormats.RGBAPixel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Library.PixelFormats.RGBAPixel.html",
+          "hash": "zqIpbX7ATWip+gbO+SvBWQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Library.PixelFormats.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Library.PixelFormats.html",
+          "hash": "g7FJHUCzuot/kCuZCq2DHw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Library.Utils.Texture2DBlender.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Utils.Texture2DBlender.html",
+          "hash": "jx76uSci29UkJ/ZGhHNbxQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Library.Utils.Texture2DUtil.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Utils.Texture2DUtil.html",
+          "hash": "k0s+9jgB22/v8di7fH7kKQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Library.Utils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Utils.html",
+          "hash": "dOz18XjIcw2Q+h3ewoK5OQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Library.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Library.html",
+          "hash": "tZoSn3zMxjbUDS5FPZoO+g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.TextureSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.TextureSettings.html",
+          "hash": "mvpkhHbS0UsDMRdHLKtFjQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.html",
+          "hash": "7Q3Jh61RkV90OBfD7M31Vg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.html",
+          "hash": "UlNnTNIVakRoCJSmgP0tIQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "dist/.tmp/ref/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/toc.html",
+          "hash": "+MnsamtxazQYAkYQhdPLkA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 39,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
