@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/faster-games/aseprite/compare/v1.0.0...v1.1.0) (2021-08-16)
+
+
+### Features
+
+* **v2:** Refactor closer to ModelImporter 🎭 ([f424de5](https://github.com/faster-games/aseprite/commit/f424de5ffe2f6a781bd70b488047f2610986d691))
+
 # 1.0.0 (2021-08-11)
 
 
