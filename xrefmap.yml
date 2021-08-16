@@ -7,48 +7,61 @@ references:
   commentId: N:FasterGames.Aseprite
   fullName: FasterGames.Aseprite
   nameWithType: FasterGames.Aseprite
-- uid: FasterGames.Aseprite.AsepriteAsset
-  name: AsepriteAsset
-  href: ref/FasterGames.Aseprite.AsepriteAsset.html
-  commentId: T:FasterGames.Aseprite.AsepriteAsset
-  fullName: FasterGames.Aseprite.AsepriteAsset
-  nameWithType: AsepriteAsset
-- uid: FasterGames.Aseprite.AsepriteAsset.frameCount
+- uid: FasterGames.Aseprite.AsepriteMetadata
+  name: AsepriteMetadata
+  href: ref/FasterGames.Aseprite.AsepriteMetadata.html
+  commentId: T:FasterGames.Aseprite.AsepriteMetadata
+  fullName: FasterGames.Aseprite.AsepriteMetadata
+  nameWithType: AsepriteMetadata
+- uid: FasterGames.Aseprite.AsepriteMetadata.FormatName(System.String,System.String,System.String)
+  name: FormatName(String, String, String)
+  href: ref/FasterGames.Aseprite.AsepriteMetadata.html#FasterGames_Aseprite_AsepriteMetadata_FormatName_System_String_System_String_System_String_
+  commentId: M:FasterGames.Aseprite.AsepriteMetadata.FormatName(System.String,System.String,System.String)
+  fullName: FasterGames.Aseprite.AsepriteMetadata.FormatName(System.String, System.String, System.String)
+  nameWithType: AsepriteMetadata.FormatName(String, String, String)
+- uid: FasterGames.Aseprite.AsepriteMetadata.FormatName*
+  name: FormatName
+  href: ref/FasterGames.Aseprite.AsepriteMetadata.html#FasterGames_Aseprite_AsepriteMetadata_FormatName_
+  commentId: Overload:FasterGames.Aseprite.AsepriteMetadata.FormatName
+  isSpec: "True"
+  fullName: FasterGames.Aseprite.AsepriteMetadata.FormatName
+  nameWithType: AsepriteMetadata.FormatName
+- uid: FasterGames.Aseprite.AsepriteMetadata.frameCount
   name: frameCount
-  href: ref/FasterGames.Aseprite.AsepriteAsset.html#FasterGames_Aseprite_AsepriteAsset_frameCount
-  commentId: F:FasterGames.Aseprite.AsepriteAsset.frameCount
-  fullName: FasterGames.Aseprite.AsepriteAsset.frameCount
-  nameWithType: AsepriteAsset.frameCount
-- uid: FasterGames.Aseprite.AsepriteAsset.height
+  href: ref/FasterGames.Aseprite.AsepriteMetadata.html#FasterGames_Aseprite_AsepriteMetadata_frameCount
+  commentId: F:FasterGames.Aseprite.AsepriteMetadata.frameCount
+  fullName: FasterGames.Aseprite.AsepriteMetadata.frameCount
+  nameWithType: AsepriteMetadata.frameCount
+- uid: FasterGames.Aseprite.AsepriteMetadata.height
   name: height
-  href: ref/FasterGames.Aseprite.AsepriteAsset.html#FasterGames_Aseprite_AsepriteAsset_height
-  commentId: F:FasterGames.Aseprite.AsepriteAsset.height
-  fullName: FasterGames.Aseprite.AsepriteAsset.height
-  nameWithType: AsepriteAsset.height
-- uid: FasterGames.Aseprite.AsepriteAsset.layerCount
+  href: ref/FasterGames.Aseprite.AsepriteMetadata.html#FasterGames_Aseprite_AsepriteMetadata_height
+  commentId: F:FasterGames.Aseprite.AsepriteMetadata.height
+  fullName: FasterGames.Aseprite.AsepriteMetadata.height
+  nameWithType: AsepriteMetadata.height
+- uid: FasterGames.Aseprite.AsepriteMetadata.layerCount
   name: layerCount
-  href: ref/FasterGames.Aseprite.AsepriteAsset.html#FasterGames_Aseprite_AsepriteAsset_layerCount
-  commentId: F:FasterGames.Aseprite.AsepriteAsset.layerCount
-  fullName: FasterGames.Aseprite.AsepriteAsset.layerCount
-  nameWithType: AsepriteAsset.layerCount
-- uid: FasterGames.Aseprite.AsepriteAsset.layerNames
+  href: ref/FasterGames.Aseprite.AsepriteMetadata.html#FasterGames_Aseprite_AsepriteMetadata_layerCount
+  commentId: F:FasterGames.Aseprite.AsepriteMetadata.layerCount
+  fullName: FasterGames.Aseprite.AsepriteMetadata.layerCount
+  nameWithType: AsepriteMetadata.layerCount
+- uid: FasterGames.Aseprite.AsepriteMetadata.layerNames
   name: layerNames
-  href: ref/FasterGames.Aseprite.AsepriteAsset.html#FasterGames_Aseprite_AsepriteAsset_layerNames
-  commentId: F:FasterGames.Aseprite.AsepriteAsset.layerNames
-  fullName: FasterGames.Aseprite.AsepriteAsset.layerNames
-  nameWithType: AsepriteAsset.layerNames
-- uid: FasterGames.Aseprite.AsepriteAsset.layerTextures
+  href: ref/FasterGames.Aseprite.AsepriteMetadata.html#FasterGames_Aseprite_AsepriteMetadata_layerNames
+  commentId: F:FasterGames.Aseprite.AsepriteMetadata.layerNames
+  fullName: FasterGames.Aseprite.AsepriteMetadata.layerNames
+  nameWithType: AsepriteMetadata.layerNames
+- uid: FasterGames.Aseprite.AsepriteMetadata.layerTextures
   name: layerTextures
-  href: ref/FasterGames.Aseprite.AsepriteAsset.html#FasterGames_Aseprite_AsepriteAsset_layerTextures
-  commentId: F:FasterGames.Aseprite.AsepriteAsset.layerTextures
-  fullName: FasterGames.Aseprite.AsepriteAsset.layerTextures
-  nameWithType: AsepriteAsset.layerTextures
-- uid: FasterGames.Aseprite.AsepriteAsset.width
+  href: ref/FasterGames.Aseprite.AsepriteMetadata.html#FasterGames_Aseprite_AsepriteMetadata_layerTextures
+  commentId: F:FasterGames.Aseprite.AsepriteMetadata.layerTextures
+  fullName: FasterGames.Aseprite.AsepriteMetadata.layerTextures
+  nameWithType: AsepriteMetadata.layerTextures
+- uid: FasterGames.Aseprite.AsepriteMetadata.width
   name: width
-  href: ref/FasterGames.Aseprite.AsepriteAsset.html#FasterGames_Aseprite_AsepriteAsset_width
-  commentId: F:FasterGames.Aseprite.AsepriteAsset.width
-  fullName: FasterGames.Aseprite.AsepriteAsset.width
-  nameWithType: AsepriteAsset.width
+  href: ref/FasterGames.Aseprite.AsepriteMetadata.html#FasterGames_Aseprite_AsepriteMetadata_width
+  commentId: F:FasterGames.Aseprite.AsepriteMetadata.width
+  fullName: FasterGames.Aseprite.AsepriteMetadata.width
+  nameWithType: AsepriteMetadata.width
 - uid: FasterGames.Aseprite.Editor
   name: FasterGames.Aseprite.Editor
   href: ref/FasterGames.Aseprite.Editor.html
@@ -61,30 +74,6 @@ references:
   commentId: T:FasterGames.Aseprite.Editor.AsepriteImporter
   fullName: FasterGames.Aseprite.Editor.AsepriteImporter
   nameWithType: AsepriteImporter
-- uid: FasterGames.Aseprite.Editor.AsepriteImporter.baseSortingOrder
-  name: baseSortingOrder
-  href: ref/FasterGames.Aseprite.Editor.AsepriteImporter.html#FasterGames_Aseprite_Editor_AsepriteImporter_baseSortingOrder
-  commentId: F:FasterGames.Aseprite.Editor.AsepriteImporter.baseSortingOrder
-  fullName: FasterGames.Aseprite.Editor.AsepriteImporter.baseSortingOrder
-  nameWithType: AsepriteImporter.baseSortingOrder
-- uid: FasterGames.Aseprite.Editor.AsepriteImporter.DefaultElementPrefix
-  name: DefaultElementPrefix
-  href: ref/FasterGames.Aseprite.Editor.AsepriteImporter.html#FasterGames_Aseprite_Editor_AsepriteImporter_DefaultElementPrefix
-  commentId: F:FasterGames.Aseprite.Editor.AsepriteImporter.DefaultElementPrefix
-  fullName: FasterGames.Aseprite.Editor.AsepriteImporter.DefaultElementPrefix
-  nameWithType: AsepriteImporter.DefaultElementPrefix
-- uid: FasterGames.Aseprite.Editor.AsepriteImporter.generateRootTransform
-  name: generateRootTransform
-  href: ref/FasterGames.Aseprite.Editor.AsepriteImporter.html#FasterGames_Aseprite_Editor_AsepriteImporter_generateRootTransform
-  commentId: F:FasterGames.Aseprite.Editor.AsepriteImporter.generateRootTransform
-  fullName: FasterGames.Aseprite.Editor.AsepriteImporter.generateRootTransform
-  nameWithType: AsepriteImporter.generateRootTransform
-- uid: FasterGames.Aseprite.Editor.AsepriteImporter.loopTime
-  name: loopTime
-  href: ref/FasterGames.Aseprite.Editor.AsepriteImporter.html#FasterGames_Aseprite_Editor_AsepriteImporter_loopTime
-  commentId: F:FasterGames.Aseprite.Editor.AsepriteImporter.loopTime
-  fullName: FasterGames.Aseprite.Editor.AsepriteImporter.loopTime
-  nameWithType: AsepriteImporter.loopTime
 - uid: FasterGames.Aseprite.Editor.AsepriteImporter.OnImportAsset(AssetImportContext)
   name: OnImportAsset(AssetImportContext)
   href: ref/FasterGames.Aseprite.Editor.AsepriteImporter.html#FasterGames_Aseprite_Editor_AsepriteImporter_OnImportAsset_AssetImportContext_
@@ -98,50 +87,536 @@ references:
   isSpec: "True"
   fullName: FasterGames.Aseprite.Editor.AsepriteImporter.OnImportAsset
   nameWithType: AsepriteImporter.OnImportAsset
-- uid: FasterGames.Aseprite.Editor.AsepriteImporter.sortingLayerName
+- uid: FasterGames.Aseprite.Editor.AsepriteImporter.prefabOptions
+  name: prefabOptions
+  href: ref/FasterGames.Aseprite.Editor.AsepriteImporter.html#FasterGames_Aseprite_Editor_AsepriteImporter_prefabOptions
+  commentId: F:FasterGames.Aseprite.Editor.AsepriteImporter.prefabOptions
+  fullName: FasterGames.Aseprite.Editor.AsepriteImporter.prefabOptions
+  nameWithType: AsepriteImporter.prefabOptions
+- uid: FasterGames.Aseprite.Editor.AsepriteImporter.rigOptions
+  name: rigOptions
+  href: ref/FasterGames.Aseprite.Editor.AsepriteImporter.html#FasterGames_Aseprite_Editor_AsepriteImporter_rigOptions
+  commentId: F:FasterGames.Aseprite.Editor.AsepriteImporter.rigOptions
+  fullName: FasterGames.Aseprite.Editor.AsepriteImporter.rigOptions
+  nameWithType: AsepriteImporter.rigOptions
+- uid: FasterGames.Aseprite.Editor.AsepriteImporter.textureOptions
+  name: textureOptions
+  href: ref/FasterGames.Aseprite.Editor.AsepriteImporter.html#FasterGames_Aseprite_Editor_AsepriteImporter_textureOptions
+  commentId: F:FasterGames.Aseprite.Editor.AsepriteImporter.textureOptions
+  fullName: FasterGames.Aseprite.Editor.AsepriteImporter.textureOptions
+  nameWithType: AsepriteImporter.textureOptions
+- uid: FasterGames.Aseprite.Editor.Importers
+  name: FasterGames.Aseprite.Editor.Importers
+  href: ref/FasterGames.Aseprite.Editor.Importers.html
+  commentId: N:FasterGames.Aseprite.Editor.Importers
+  fullName: FasterGames.Aseprite.Editor.Importers
+  nameWithType: FasterGames.Aseprite.Editor.Importers
+- uid: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter
+  name: AnimationRigImporter
+  href: ref/FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.html
+  commentId: T:FasterGames.Aseprite.Editor.Importers.AnimationRigImporter
+  fullName: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter
+  nameWithType: AnimationRigImporter
+- uid: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.#ctor(AseFile,FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Options)
+  name: AnimationRigImporter(AseFile, AnimationRigImporter.Options)
+  href: ref/FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.html#FasterGames_Aseprite_Editor_Importers_AnimationRigImporter__ctor_AseFile_FasterGames_Aseprite_Editor_Importers_AnimationRigImporter_Options_
+  commentId: M:FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.#ctor(AseFile,FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Options)
+  fullName: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.AnimationRigImporter(AseFile, FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Options)
+  nameWithType: AnimationRigImporter.AnimationRigImporter(AseFile, AnimationRigImporter.Options)
+- uid: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.#ctor*
+  name: AnimationRigImporter
+  href: ref/FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.html#FasterGames_Aseprite_Editor_Importers_AnimationRigImporter__ctor_
+  commentId: Overload:FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.#ctor
+  isSpec: "True"
+  fullName: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.AnimationRigImporter
+  nameWithType: AnimationRigImporter.AnimationRigImporter
+- uid: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.ImportAsset(AssetImportContext)
+  name: ImportAsset(AssetImportContext)
+  href: ref/FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.html#FasterGames_Aseprite_Editor_Importers_AnimationRigImporter_ImportAsset_AssetImportContext_
+  commentId: M:FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.ImportAsset(AssetImportContext)
+  fullName: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.ImportAsset(AssetImportContext)
+  nameWithType: AnimationRigImporter.ImportAsset(AssetImportContext)
+- uid: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.ImportAsset*
+  name: ImportAsset
+  href: ref/FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.html#FasterGames_Aseprite_Editor_Importers_AnimationRigImporter_ImportAsset_
+  commentId: Overload:FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.ImportAsset
+  isSpec: "True"
+  fullName: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.ImportAsset
+  nameWithType: AnimationRigImporter.ImportAsset
+- uid: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Options
+  name: AnimationRigImporter.Options
+  href: ref/FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Options.html
+  commentId: T:FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Options
+  fullName: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Options
+  nameWithType: AnimationRigImporter.Options
+- uid: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Options.rootObject
+  name: rootObject
+  href: ref/FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Options.html#FasterGames_Aseprite_Editor_Importers_AnimationRigImporter_Options_rootObject
+  commentId: F:FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Options.rootObject
+  fullName: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Options.rootObject
+  nameWithType: AnimationRigImporter.Options.rootObject
+- uid: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Options.spritesByLayerName
+  name: spritesByLayerName
+  href: ref/FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Options.html#FasterGames_Aseprite_Editor_Importers_AnimationRigImporter_Options_spritesByLayerName
+  commentId: F:FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Options.spritesByLayerName
+  fullName: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Options.spritesByLayerName
+  nameWithType: AnimationRigImporter.Options.spritesByLayerName
+- uid: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Options.userOptions
+  name: userOptions
+  href: ref/FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Options.html#FasterGames_Aseprite_Editor_Importers_AnimationRigImporter_Options_userOptions
+  commentId: F:FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Options.userOptions
+  fullName: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Options.userOptions
+  nameWithType: AnimationRigImporter.Options.userOptions
+- uid: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Result
+  name: AnimationRigImporter.Result
+  href: ref/FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Result.html
+  commentId: T:FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Result
+  fullName: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Result
+  nameWithType: AnimationRigImporter.Result
+- uid: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Result.avatar
+  name: avatar
+  href: ref/FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Result.html#FasterGames_Aseprite_Editor_Importers_AnimationRigImporter_Result_avatar
+  commentId: F:FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Result.avatar
+  fullName: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Result.avatar
+  nameWithType: AnimationRigImporter.Result.avatar
+- uid: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Result.clips
+  name: clips
+  href: ref/FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Result.html#FasterGames_Aseprite_Editor_Importers_AnimationRigImporter_Result_clips
+  commentId: F:FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Result.clips
+  fullName: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Result.clips
+  nameWithType: AnimationRigImporter.Result.clips
+- uid: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Result.layerMasks
+  name: layerMasks
+  href: ref/FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Result.html#FasterGames_Aseprite_Editor_Importers_AnimationRigImporter_Result_layerMasks
+  commentId: F:FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Result.layerMasks
+  fullName: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Result.layerMasks
+  nameWithType: AnimationRigImporter.Result.layerMasks
+- uid: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.UserOptions
+  name: AnimationRigImporter.UserOptions
+  href: ref/FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.UserOptions.html
+  commentId: T:FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.UserOptions
+  fullName: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.UserOptions
+  nameWithType: AnimationRigImporter.UserOptions
+- uid: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.UserOptions.loopTags
+  name: loopTags
+  href: ref/FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_AnimationRigImporter_UserOptions_loopTags
+  commentId: F:FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.UserOptions.loopTags
+  fullName: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.UserOptions.loopTags
+  nameWithType: AnimationRigImporter.UserOptions.loopTags
+- uid: FasterGames.Aseprite.Editor.Importers.BaseImporter`2
+  name: BaseImporter<TSource, TOutput>
+  href: ref/FasterGames.Aseprite.Editor.Importers.BaseImporter-2.html
+  commentId: T:FasterGames.Aseprite.Editor.Importers.BaseImporter`2
+  name.vb: BaseImporter(Of TSource, TOutput)
+  fullName: FasterGames.Aseprite.Editor.Importers.BaseImporter<TSource, TOutput>
+  fullName.vb: FasterGames.Aseprite.Editor.Importers.BaseImporter(Of TSource, TOutput)
+  nameWithType: BaseImporter<TSource, TOutput>
+  nameWithType.vb: BaseImporter(Of TSource, TOutput)
+- uid: FasterGames.Aseprite.Editor.Importers.BaseImporter`2.#ctor(`0)
+  name: BaseImporter(TSource)
+  href: ref/FasterGames.Aseprite.Editor.Importers.BaseImporter-2.html#FasterGames_Aseprite_Editor_Importers_BaseImporter_2__ctor__0_
+  commentId: M:FasterGames.Aseprite.Editor.Importers.BaseImporter`2.#ctor(`0)
+  fullName: FasterGames.Aseprite.Editor.Importers.BaseImporter<TSource, TOutput>.BaseImporter(TSource)
+  fullName.vb: FasterGames.Aseprite.Editor.Importers.BaseImporter(Of TSource, TOutput).BaseImporter(TSource)
+  nameWithType: BaseImporter<TSource, TOutput>.BaseImporter(TSource)
+  nameWithType.vb: BaseImporter(Of TSource, TOutput).BaseImporter(TSource)
+- uid: FasterGames.Aseprite.Editor.Importers.BaseImporter`2.#ctor*
+  name: BaseImporter
+  href: ref/FasterGames.Aseprite.Editor.Importers.BaseImporter-2.html#FasterGames_Aseprite_Editor_Importers_BaseImporter_2__ctor_
+  commentId: Overload:FasterGames.Aseprite.Editor.Importers.BaseImporter`2.#ctor
+  isSpec: "True"
+  fullName: FasterGames.Aseprite.Editor.Importers.BaseImporter<TSource, TOutput>.BaseImporter
+  fullName.vb: FasterGames.Aseprite.Editor.Importers.BaseImporter(Of TSource, TOutput).BaseImporter
+  nameWithType: BaseImporter<TSource, TOutput>.BaseImporter
+  nameWithType.vb: BaseImporter(Of TSource, TOutput).BaseImporter
+- uid: FasterGames.Aseprite.Editor.Importers.BaseImporter`2.ImportAsset(AssetImportContext)
+  name: ImportAsset(AssetImportContext)
+  href: ref/FasterGames.Aseprite.Editor.Importers.BaseImporter-2.html#FasterGames_Aseprite_Editor_Importers_BaseImporter_2_ImportAsset_AssetImportContext_
+  commentId: M:FasterGames.Aseprite.Editor.Importers.BaseImporter`2.ImportAsset(AssetImportContext)
+  fullName: FasterGames.Aseprite.Editor.Importers.BaseImporter<TSource, TOutput>.ImportAsset(AssetImportContext)
+  fullName.vb: FasterGames.Aseprite.Editor.Importers.BaseImporter(Of TSource, TOutput).ImportAsset(AssetImportContext)
+  nameWithType: BaseImporter<TSource, TOutput>.ImportAsset(AssetImportContext)
+  nameWithType.vb: BaseImporter(Of TSource, TOutput).ImportAsset(AssetImportContext)
+- uid: FasterGames.Aseprite.Editor.Importers.BaseImporter`2.ImportAsset*
+  name: ImportAsset
+  href: ref/FasterGames.Aseprite.Editor.Importers.BaseImporter-2.html#FasterGames_Aseprite_Editor_Importers_BaseImporter_2_ImportAsset_
+  commentId: Overload:FasterGames.Aseprite.Editor.Importers.BaseImporter`2.ImportAsset
+  isSpec: "True"
+  fullName: FasterGames.Aseprite.Editor.Importers.BaseImporter<TSource, TOutput>.ImportAsset
+  fullName.vb: FasterGames.Aseprite.Editor.Importers.BaseImporter(Of TSource, TOutput).ImportAsset
+  nameWithType: BaseImporter<TSource, TOutput>.ImportAsset
+  nameWithType.vb: BaseImporter(Of TSource, TOutput).ImportAsset
+- uid: FasterGames.Aseprite.Editor.Importers.BaseImporter`2.Source
+  name: Source
+  href: ref/FasterGames.Aseprite.Editor.Importers.BaseImporter-2.html#FasterGames_Aseprite_Editor_Importers_BaseImporter_2_Source
+  commentId: P:FasterGames.Aseprite.Editor.Importers.BaseImporter`2.Source
+  fullName: FasterGames.Aseprite.Editor.Importers.BaseImporter<TSource, TOutput>.Source
+  fullName.vb: FasterGames.Aseprite.Editor.Importers.BaseImporter(Of TSource, TOutput).Source
+  nameWithType: BaseImporter<TSource, TOutput>.Source
+  nameWithType.vb: BaseImporter(Of TSource, TOutput).Source
+- uid: FasterGames.Aseprite.Editor.Importers.BaseImporter`2.Source*
+  name: Source
+  href: ref/FasterGames.Aseprite.Editor.Importers.BaseImporter-2.html#FasterGames_Aseprite_Editor_Importers_BaseImporter_2_Source_
+  commentId: Overload:FasterGames.Aseprite.Editor.Importers.BaseImporter`2.Source
+  isSpec: "True"
+  fullName: FasterGames.Aseprite.Editor.Importers.BaseImporter<TSource, TOutput>.Source
+  fullName.vb: FasterGames.Aseprite.Editor.Importers.BaseImporter(Of TSource, TOutput).Source
+  nameWithType: BaseImporter<TSource, TOutput>.Source
+  nameWithType.vb: BaseImporter(Of TSource, TOutput).Source
+- uid: FasterGames.Aseprite.Editor.Importers.PrefabImporter
+  name: PrefabImporter
+  href: ref/FasterGames.Aseprite.Editor.Importers.PrefabImporter.html
+  commentId: T:FasterGames.Aseprite.Editor.Importers.PrefabImporter
+  fullName: FasterGames.Aseprite.Editor.Importers.PrefabImporter
+  nameWithType: PrefabImporter
+- uid: FasterGames.Aseprite.Editor.Importers.PrefabImporter.#ctor(AseFile,FasterGames.Aseprite.Editor.Importers.PrefabImporter.UserOptions)
+  name: PrefabImporter(AseFile, PrefabImporter.UserOptions)
+  href: ref/FasterGames.Aseprite.Editor.Importers.PrefabImporter.html#FasterGames_Aseprite_Editor_Importers_PrefabImporter__ctor_AseFile_FasterGames_Aseprite_Editor_Importers_PrefabImporter_UserOptions_
+  commentId: M:FasterGames.Aseprite.Editor.Importers.PrefabImporter.#ctor(AseFile,FasterGames.Aseprite.Editor.Importers.PrefabImporter.UserOptions)
+  fullName: FasterGames.Aseprite.Editor.Importers.PrefabImporter.PrefabImporter(AseFile, FasterGames.Aseprite.Editor.Importers.PrefabImporter.UserOptions)
+  nameWithType: PrefabImporter.PrefabImporter(AseFile, PrefabImporter.UserOptions)
+- uid: FasterGames.Aseprite.Editor.Importers.PrefabImporter.#ctor*
+  name: PrefabImporter
+  href: ref/FasterGames.Aseprite.Editor.Importers.PrefabImporter.html#FasterGames_Aseprite_Editor_Importers_PrefabImporter__ctor_
+  commentId: Overload:FasterGames.Aseprite.Editor.Importers.PrefabImporter.#ctor
+  isSpec: "True"
+  fullName: FasterGames.Aseprite.Editor.Importers.PrefabImporter.PrefabImporter
+  nameWithType: PrefabImporter.PrefabImporter
+- uid: FasterGames.Aseprite.Editor.Importers.PrefabImporter.ImportAsset(AssetImportContext)
+  name: ImportAsset(AssetImportContext)
+  href: ref/FasterGames.Aseprite.Editor.Importers.PrefabImporter.html#FasterGames_Aseprite_Editor_Importers_PrefabImporter_ImportAsset_AssetImportContext_
+  commentId: M:FasterGames.Aseprite.Editor.Importers.PrefabImporter.ImportAsset(AssetImportContext)
+  fullName: FasterGames.Aseprite.Editor.Importers.PrefabImporter.ImportAsset(AssetImportContext)
+  nameWithType: PrefabImporter.ImportAsset(AssetImportContext)
+- uid: FasterGames.Aseprite.Editor.Importers.PrefabImporter.ImportAsset*
+  name: ImportAsset
+  href: ref/FasterGames.Aseprite.Editor.Importers.PrefabImporter.html#FasterGames_Aseprite_Editor_Importers_PrefabImporter_ImportAsset_
+  commentId: Overload:FasterGames.Aseprite.Editor.Importers.PrefabImporter.ImportAsset
+  isSpec: "True"
+  fullName: FasterGames.Aseprite.Editor.Importers.PrefabImporter.ImportAsset
+  nameWithType: PrefabImporter.ImportAsset
+- uid: FasterGames.Aseprite.Editor.Importers.PrefabImporter.UserOptions
+  name: PrefabImporter.UserOptions
+  href: ref/FasterGames.Aseprite.Editor.Importers.PrefabImporter.UserOptions.html
+  commentId: T:FasterGames.Aseprite.Editor.Importers.PrefabImporter.UserOptions
+  fullName: FasterGames.Aseprite.Editor.Importers.PrefabImporter.UserOptions
+  nameWithType: PrefabImporter.UserOptions
+- uid: FasterGames.Aseprite.Editor.Importers.PrefabImporter.UserOptions.baseSortingOrder
+  name: baseSortingOrder
+  href: ref/FasterGames.Aseprite.Editor.Importers.PrefabImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_PrefabImporter_UserOptions_baseSortingOrder
+  commentId: F:FasterGames.Aseprite.Editor.Importers.PrefabImporter.UserOptions.baseSortingOrder
+  fullName: FasterGames.Aseprite.Editor.Importers.PrefabImporter.UserOptions.baseSortingOrder
+  nameWithType: PrefabImporter.UserOptions.baseSortingOrder
+- uid: FasterGames.Aseprite.Editor.Importers.PrefabImporter.UserOptions.sortingLayerName
   name: sortingLayerName
-  href: ref/FasterGames.Aseprite.Editor.AsepriteImporter.html#FasterGames_Aseprite_Editor_AsepriteImporter_sortingLayerName
-  commentId: F:FasterGames.Aseprite.Editor.AsepriteImporter.sortingLayerName
-  fullName: FasterGames.Aseprite.Editor.AsepriteImporter.sortingLayerName
-  nameWithType: AsepriteImporter.sortingLayerName
-- uid: FasterGames.Aseprite.Editor.AsepriteImporter.textureSettings
-  name: textureSettings
-  href: ref/FasterGames.Aseprite.Editor.AsepriteImporter.html#FasterGames_Aseprite_Editor_AsepriteImporter_textureSettings
-  commentId: F:FasterGames.Aseprite.Editor.AsepriteImporter.textureSettings
-  fullName: FasterGames.Aseprite.Editor.AsepriteImporter.textureSettings
-  nameWithType: AsepriteImporter.textureSettings
-- uid: FasterGames.Aseprite.Editor.AsepriteImporterEditor
-  name: AsepriteImporterEditor
-  href: ref/FasterGames.Aseprite.Editor.AsepriteImporterEditor.html
-  commentId: T:FasterGames.Aseprite.Editor.AsepriteImporterEditor
-  fullName: FasterGames.Aseprite.Editor.AsepriteImporterEditor
-  nameWithType: AsepriteImporterEditor
-- uid: FasterGames.Aseprite.Editor.AsepriteImporterEditor.OnInspectorGUI
-  name: OnInspectorGUI()
-  href: ref/FasterGames.Aseprite.Editor.AsepriteImporterEditor.html#FasterGames_Aseprite_Editor_AsepriteImporterEditor_OnInspectorGUI
-  commentId: M:FasterGames.Aseprite.Editor.AsepriteImporterEditor.OnInspectorGUI
-  fullName: FasterGames.Aseprite.Editor.AsepriteImporterEditor.OnInspectorGUI()
-  nameWithType: AsepriteImporterEditor.OnInspectorGUI()
-- uid: FasterGames.Aseprite.Editor.AsepriteImporterEditor.OnInspectorGUI*
-  name: OnInspectorGUI
-  href: ref/FasterGames.Aseprite.Editor.AsepriteImporterEditor.html#FasterGames_Aseprite_Editor_AsepriteImporterEditor_OnInspectorGUI_
-  commentId: Overload:FasterGames.Aseprite.Editor.AsepriteImporterEditor.OnInspectorGUI
+  href: ref/FasterGames.Aseprite.Editor.Importers.PrefabImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_PrefabImporter_UserOptions_sortingLayerName
+  commentId: F:FasterGames.Aseprite.Editor.Importers.PrefabImporter.UserOptions.sortingLayerName
+  fullName: FasterGames.Aseprite.Editor.Importers.PrefabImporter.UserOptions.sortingLayerName
+  nameWithType: PrefabImporter.UserOptions.sortingLayerName
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter
+  name: TextureSpriteImporter
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.html
+  commentId: T:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter
+  nameWithType: TextureSpriteImporter
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.#ctor(AseFile,FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions)
+  name: TextureSpriteImporter(AseFile, TextureSpriteImporter.UserOptions)
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter__ctor_AseFile_FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_
+  commentId: M:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.#ctor(AseFile,FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions)
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.TextureSpriteImporter(AseFile, FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions)
+  nameWithType: TextureSpriteImporter.TextureSpriteImporter(AseFile, TextureSpriteImporter.UserOptions)
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.#ctor*
+  name: TextureSpriteImporter
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter__ctor_
+  commentId: Overload:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.#ctor
   isSpec: "True"
-  fullName: FasterGames.Aseprite.Editor.AsepriteImporterEditor.OnInspectorGUI
-  nameWithType: AsepriteImporterEditor.OnInspectorGUI
-- uid: FasterGames.Aseprite.Editor.AsepriteImporterEditor.showImportedObject
-  name: showImportedObject
-  href: ref/FasterGames.Aseprite.Editor.AsepriteImporterEditor.html#FasterGames_Aseprite_Editor_AsepriteImporterEditor_showImportedObject
-  commentId: P:FasterGames.Aseprite.Editor.AsepriteImporterEditor.showImportedObject
-  fullName: FasterGames.Aseprite.Editor.AsepriteImporterEditor.showImportedObject
-  nameWithType: AsepriteImporterEditor.showImportedObject
-- uid: FasterGames.Aseprite.Editor.AsepriteImporterEditor.showImportedObject*
-  name: showImportedObject
-  href: ref/FasterGames.Aseprite.Editor.AsepriteImporterEditor.html#FasterGames_Aseprite_Editor_AsepriteImporterEditor_showImportedObject_
-  commentId: Overload:FasterGames.Aseprite.Editor.AsepriteImporterEditor.showImportedObject
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.TextureSpriteImporter
+  nameWithType: TextureSpriteImporter.TextureSpriteImporter
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.ImportAsset(AssetImportContext)
+  name: ImportAsset(AssetImportContext)
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_ImportAsset_AssetImportContext_
+  commentId: M:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.ImportAsset(AssetImportContext)
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.ImportAsset(AssetImportContext)
+  nameWithType: TextureSpriteImporter.ImportAsset(AssetImportContext)
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.ImportAsset*
+  name: ImportAsset
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_ImportAsset_
+  commentId: Overload:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.ImportAsset
   isSpec: "True"
-  fullName: FasterGames.Aseprite.Editor.AsepriteImporterEditor.showImportedObject
-  nameWithType: AsepriteImporterEditor.showImportedObject
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.ImportAsset
+  nameWithType: TextureSpriteImporter.ImportAsset
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.TryCanImportInto(System.String)
+  name: TryCanImportInto(String)
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_TryCanImportInto_System_String_
+  commentId: M:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.TryCanImportInto(System.String)
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.TryCanImportInto(System.String)
+  nameWithType: TextureSpriteImporter.TryCanImportInto(String)
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.TryCanImportInto*
+  name: TryCanImportInto
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_TryCanImportInto_
+  commentId: Overload:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.TryCanImportInto
+  isSpec: "True"
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.TryCanImportInto
+  nameWithType: TextureSpriteImporter.TryCanImportInto
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions
+  name: TextureSpriteImporter.UserOptions
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html
+  commentId: T:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions
+  nameWithType: TextureSpriteImporter.UserOptions
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.alphaIsTransparency
+  name: alphaIsTransparency
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_alphaIsTransparency
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.alphaIsTransparency
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.alphaIsTransparency
+  nameWithType: TextureSpriteImporter.UserOptions.alphaIsTransparency
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.alphaSource
+  name: alphaSource
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_alphaSource
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.alphaSource
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.alphaSource
+  nameWithType: TextureSpriteImporter.UserOptions.alphaSource
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.alphaTestReferenceValue
+  name: alphaTestReferenceValue
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_alphaTestReferenceValue
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.alphaTestReferenceValue
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.alphaTestReferenceValue
+  nameWithType: TextureSpriteImporter.UserOptions.alphaTestReferenceValue
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.aniso
+  name: aniso
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_aniso
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.aniso
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.aniso
+  nameWithType: TextureSpriteImporter.UserOptions.aniso
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.borderMipmap
+  name: borderMipmap
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_borderMipmap
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.borderMipmap
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.borderMipmap
+  nameWithType: TextureSpriteImporter.UserOptions.borderMipmap
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.convertToNormalMap
+  name: convertToNormalMap
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_convertToNormalMap
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.convertToNormalMap
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.convertToNormalMap
+  nameWithType: TextureSpriteImporter.UserOptions.convertToNormalMap
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.cubemapConvolution
+  name: cubemapConvolution
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_cubemapConvolution
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.cubemapConvolution
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.cubemapConvolution
+  nameWithType: TextureSpriteImporter.UserOptions.cubemapConvolution
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.fadeOut
+  name: fadeOut
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_fadeOut
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.fadeOut
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.fadeOut
+  nameWithType: TextureSpriteImporter.UserOptions.fadeOut
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.filterMode
+  name: filterMode
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_filterMode
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.filterMode
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.filterMode
+  nameWithType: TextureSpriteImporter.UserOptions.filterMode
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.generateCubemap
+  name: generateCubemap
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_generateCubemap
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.generateCubemap
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.generateCubemap
+  nameWithType: TextureSpriteImporter.UserOptions.generateCubemap
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.heightmapScale
+  name: heightmapScale
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_heightmapScale
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.heightmapScale
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.heightmapScale
+  nameWithType: TextureSpriteImporter.UserOptions.heightmapScale
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.mipmapBias
+  name: mipmapBias
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_mipmapBias
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.mipmapBias
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.mipmapBias
+  nameWithType: TextureSpriteImporter.UserOptions.mipmapBias
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.mipmapEnabled
+  name: mipmapEnabled
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_mipmapEnabled
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.mipmapEnabled
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.mipmapEnabled
+  nameWithType: TextureSpriteImporter.UserOptions.mipmapEnabled
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.mipmapFadeDistanceEnd
+  name: mipmapFadeDistanceEnd
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_mipmapFadeDistanceEnd
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.mipmapFadeDistanceEnd
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.mipmapFadeDistanceEnd
+  nameWithType: TextureSpriteImporter.UserOptions.mipmapFadeDistanceEnd
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.mipmapFadeDistanceStart
+  name: mipmapFadeDistanceStart
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_mipmapFadeDistanceStart
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.mipmapFadeDistanceStart
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.mipmapFadeDistanceStart
+  nameWithType: TextureSpriteImporter.UserOptions.mipmapFadeDistanceStart
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.mipmapFilter
+  name: mipmapFilter
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_mipmapFilter
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.mipmapFilter
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.mipmapFilter
+  nameWithType: TextureSpriteImporter.UserOptions.mipmapFilter
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.mipMapsPreserveCoverage
+  name: mipMapsPreserveCoverage
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_mipMapsPreserveCoverage
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.mipMapsPreserveCoverage
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.mipMapsPreserveCoverage
+  nameWithType: TextureSpriteImporter.UserOptions.mipMapsPreserveCoverage
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.normalMapFilter
+  name: normalMapFilter
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_normalMapFilter
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.normalMapFilter
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.normalMapFilter
+  nameWithType: TextureSpriteImporter.UserOptions.normalMapFilter
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.npotScale
+  name: npotScale
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_npotScale
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.npotScale
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.npotScale
+  nameWithType: TextureSpriteImporter.UserOptions.npotScale
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.readable
+  name: readable
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_readable
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.readable
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.readable
+  nameWithType: TextureSpriteImporter.UserOptions.readable
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.seamlessCubemap
+  name: seamlessCubemap
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_seamlessCubemap
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.seamlessCubemap
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.seamlessCubemap
+  nameWithType: TextureSpriteImporter.UserOptions.seamlessCubemap
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.singleChannelComponent
+  name: singleChannelComponent
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_singleChannelComponent
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.singleChannelComponent
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.singleChannelComponent
+  nameWithType: TextureSpriteImporter.UserOptions.singleChannelComponent
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.spriteAlignment
+  name: spriteAlignment
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_spriteAlignment
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.spriteAlignment
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.spriteAlignment
+  nameWithType: TextureSpriteImporter.UserOptions.spriteAlignment
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.spriteBorder
+  name: spriteBorder
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_spriteBorder
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.spriteBorder
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.spriteBorder
+  nameWithType: TextureSpriteImporter.UserOptions.spriteBorder
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.spriteExtrude
+  name: spriteExtrude
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_spriteExtrude
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.spriteExtrude
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.spriteExtrude
+  nameWithType: TextureSpriteImporter.UserOptions.spriteExtrude
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.spriteGenerateFallbackPhysicsShape
+  name: spriteGenerateFallbackPhysicsShape
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_spriteGenerateFallbackPhysicsShape
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.spriteGenerateFallbackPhysicsShape
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.spriteGenerateFallbackPhysicsShape
+  nameWithType: TextureSpriteImporter.UserOptions.spriteGenerateFallbackPhysicsShape
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.spriteMeshType
+  name: spriteMeshType
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_spriteMeshType
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.spriteMeshType
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.spriteMeshType
+  nameWithType: TextureSpriteImporter.UserOptions.spriteMeshType
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.spriteMode
+  name: spriteMode
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_spriteMode
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.spriteMode
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.spriteMode
+  nameWithType: TextureSpriteImporter.UserOptions.spriteMode
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.spritePivot
+  name: spritePivot
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_spritePivot
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.spritePivot
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.spritePivot
+  nameWithType: TextureSpriteImporter.UserOptions.spritePivot
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.spritePixelsPerUnit
+  name: spritePixelsPerUnit
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_spritePixelsPerUnit
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.spritePixelsPerUnit
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.spritePixelsPerUnit
+  nameWithType: TextureSpriteImporter.UserOptions.spritePixelsPerUnit
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.spriteTessellationDetail
+  name: spriteTessellationDetail
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_spriteTessellationDetail
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.spriteTessellationDetail
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.spriteTessellationDetail
+  nameWithType: TextureSpriteImporter.UserOptions.spriteTessellationDetail
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.sRGBTexture
+  name: sRGBTexture
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_sRGBTexture
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.sRGBTexture
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.sRGBTexture
+  nameWithType: TextureSpriteImporter.UserOptions.sRGBTexture
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.streamingMipmaps
+  name: streamingMipmaps
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_streamingMipmaps
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.streamingMipmaps
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.streamingMipmaps
+  nameWithType: TextureSpriteImporter.UserOptions.streamingMipmaps
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.streamingMipmapsPriority
+  name: streamingMipmapsPriority
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_streamingMipmapsPriority
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.streamingMipmapsPriority
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.streamingMipmapsPriority
+  nameWithType: TextureSpriteImporter.UserOptions.streamingMipmapsPriority
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.textureShape
+  name: textureShape
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_textureShape
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.textureShape
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.textureShape
+  nameWithType: TextureSpriteImporter.UserOptions.textureShape
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.textureType
+  name: textureType
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_textureType
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.textureType
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.textureType
+  nameWithType: TextureSpriteImporter.UserOptions.textureType
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.ToImporterSettings
+  name: ToImporterSettings()
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_ToImporterSettings
+  commentId: M:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.ToImporterSettings
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.ToImporterSettings()
+  nameWithType: TextureSpriteImporter.UserOptions.ToImporterSettings()
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.ToImporterSettings*
+  name: ToImporterSettings
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_ToImporterSettings_
+  commentId: Overload:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.ToImporterSettings
+  isSpec: "True"
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.ToImporterSettings
+  nameWithType: TextureSpriteImporter.UserOptions.ToImporterSettings
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.wrapMode
+  name: wrapMode
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_wrapMode
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.wrapMode
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.wrapMode
+  nameWithType: TextureSpriteImporter.UserOptions.wrapMode
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.wrapModeU
+  name: wrapModeU
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_wrapModeU
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.wrapModeU
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.wrapModeU
+  nameWithType: TextureSpriteImporter.UserOptions.wrapModeU
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.wrapModeV
+  name: wrapModeV
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_wrapModeV
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.wrapModeV
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.wrapModeV
+  nameWithType: TextureSpriteImporter.UserOptions.wrapModeV
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.wrapModeW
+  name: wrapModeW
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_wrapModeW
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.wrapModeW
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.wrapModeW
+  nameWithType: TextureSpriteImporter.UserOptions.wrapModeW
 - uid: FasterGames.Aseprite.Editor.Library
   name: FasterGames.Aseprite.Editor.Library
   href: ref/FasterGames.Aseprite.Editor.Library.html
@@ -154,11 +629,11 @@ references:
   commentId: T:FasterGames.Aseprite.Editor.Library.AseFile
   fullName: FasterGames.Aseprite.Editor.Library.AseFile
   nameWithType: AseFile
-- uid: FasterGames.Aseprite.Editor.Library.AseFile.#ctor(Stream)
+- uid: FasterGames.Aseprite.Editor.Library.AseFile.#ctor(System.IO.Stream)
   name: AseFile(Stream)
-  href: ref/FasterGames.Aseprite.Editor.Library.AseFile.html#FasterGames_Aseprite_Editor_Library_AseFile__ctor_Stream_
-  commentId: M:FasterGames.Aseprite.Editor.Library.AseFile.#ctor(Stream)
-  fullName: FasterGames.Aseprite.Editor.Library.AseFile.AseFile(Stream)
+  href: ref/FasterGames.Aseprite.Editor.Library.AseFile.html#FasterGames_Aseprite_Editor_Library_AseFile__ctor_System_IO_Stream_
+  commentId: M:FasterGames.Aseprite.Editor.Library.AseFile.#ctor(System.IO.Stream)
+  fullName: FasterGames.Aseprite.Editor.Library.AseFile.AseFile(System.IO.Stream)
   nameWithType: AseFile.AseFile(Stream)
 - uid: FasterGames.Aseprite.Editor.Library.AseFile.#ctor*
   name: AseFile
@@ -373,11 +848,11 @@ references:
   isSpec: "True"
   fullName: FasterGames.Aseprite.Editor.Library.Chunk.Length
   nameWithType: Chunk.Length
-- uid: FasterGames.Aseprite.Editor.Library.Chunk.ReadChunk(FasterGames.Aseprite.Editor.Library.Frame,BinaryReader)
+- uid: FasterGames.Aseprite.Editor.Library.Chunk.ReadChunk(FasterGames.Aseprite.Editor.Library.Frame,System.IO.BinaryReader)
   name: ReadChunk(Frame, BinaryReader)
-  href: ref/FasterGames.Aseprite.Editor.Library.Chunk.html#FasterGames_Aseprite_Editor_Library_Chunk_ReadChunk_FasterGames_Aseprite_Editor_Library_Frame_BinaryReader_
-  commentId: M:FasterGames.Aseprite.Editor.Library.Chunk.ReadChunk(FasterGames.Aseprite.Editor.Library.Frame,BinaryReader)
-  fullName: FasterGames.Aseprite.Editor.Library.Chunk.ReadChunk(FasterGames.Aseprite.Editor.Library.Frame, BinaryReader)
+  href: ref/FasterGames.Aseprite.Editor.Library.Chunk.html#FasterGames_Aseprite_Editor_Library_Chunk_ReadChunk_FasterGames_Aseprite_Editor_Library_Frame_System_IO_BinaryReader_
+  commentId: M:FasterGames.Aseprite.Editor.Library.Chunk.ReadChunk(FasterGames.Aseprite.Editor.Library.Frame,System.IO.BinaryReader)
+  fullName: FasterGames.Aseprite.Editor.Library.Chunk.ReadChunk(FasterGames.Aseprite.Editor.Library.Frame, System.IO.BinaryReader)
   nameWithType: Chunk.ReadChunk(Frame, BinaryReader)
 - uid: FasterGames.Aseprite.Editor.Library.Chunk.ReadChunk*
   name: ReadChunk
@@ -476,11 +951,11 @@ references:
   isSpec: "True"
   fullName: FasterGames.Aseprite.Editor.Library.Chunks.CelChunk.RawPixelData
   nameWithType: CelChunk.RawPixelData
-- uid: FasterGames.Aseprite.Editor.Library.Chunks.CelChunk.ReadCelChunk(System.UInt32,BinaryReader,FasterGames.Aseprite.Editor.Library.Frame)
+- uid: FasterGames.Aseprite.Editor.Library.Chunks.CelChunk.ReadCelChunk(System.UInt32,System.IO.BinaryReader,FasterGames.Aseprite.Editor.Library.Frame)
   name: ReadCelChunk(UInt32, BinaryReader, Frame)
-  href: ref/FasterGames.Aseprite.Editor.Library.Chunks.CelChunk.html#FasterGames_Aseprite_Editor_Library_Chunks_CelChunk_ReadCelChunk_System_UInt32_BinaryReader_FasterGames_Aseprite_Editor_Library_Frame_
-  commentId: M:FasterGames.Aseprite.Editor.Library.Chunks.CelChunk.ReadCelChunk(System.UInt32,BinaryReader,FasterGames.Aseprite.Editor.Library.Frame)
-  fullName: FasterGames.Aseprite.Editor.Library.Chunks.CelChunk.ReadCelChunk(System.UInt32, BinaryReader, FasterGames.Aseprite.Editor.Library.Frame)
+  href: ref/FasterGames.Aseprite.Editor.Library.Chunks.CelChunk.html#FasterGames_Aseprite_Editor_Library_Chunks_CelChunk_ReadCelChunk_System_UInt32_System_IO_BinaryReader_FasterGames_Aseprite_Editor_Library_Frame_
+  commentId: M:FasterGames.Aseprite.Editor.Library.Chunks.CelChunk.ReadCelChunk(System.UInt32,System.IO.BinaryReader,FasterGames.Aseprite.Editor.Library.Frame)
+  fullName: FasterGames.Aseprite.Editor.Library.Chunks.CelChunk.ReadCelChunk(System.UInt32, System.IO.BinaryReader, FasterGames.Aseprite.Editor.Library.Frame)
   nameWithType: CelChunk.ReadCelChunk(UInt32, BinaryReader, Frame)
 - uid: FasterGames.Aseprite.Editor.Library.Chunks.CelChunk.ReadCelChunk*
   name: ReadCelChunk
@@ -489,11 +964,11 @@ references:
   isSpec: "True"
   fullName: FasterGames.Aseprite.Editor.Library.Chunks.CelChunk.ReadCelChunk
   nameWithType: CelChunk.ReadCelChunk
-- uid: FasterGames.Aseprite.Editor.Library.Chunks.CelChunk.ReadPixelData(BinaryReader,FasterGames.Aseprite.Editor.Library.Frame)
+- uid: FasterGames.Aseprite.Editor.Library.Chunks.CelChunk.ReadPixelData(System.IO.BinaryReader,FasterGames.Aseprite.Editor.Library.Frame)
   name: ReadPixelData(BinaryReader, Frame)
-  href: ref/FasterGames.Aseprite.Editor.Library.Chunks.CelChunk.html#FasterGames_Aseprite_Editor_Library_Chunks_CelChunk_ReadPixelData_BinaryReader_FasterGames_Aseprite_Editor_Library_Frame_
-  commentId: M:FasterGames.Aseprite.Editor.Library.Chunks.CelChunk.ReadPixelData(BinaryReader,FasterGames.Aseprite.Editor.Library.Frame)
-  fullName: FasterGames.Aseprite.Editor.Library.Chunks.CelChunk.ReadPixelData(BinaryReader, FasterGames.Aseprite.Editor.Library.Frame)
+  href: ref/FasterGames.Aseprite.Editor.Library.Chunks.CelChunk.html#FasterGames_Aseprite_Editor_Library_Chunks_CelChunk_ReadPixelData_System_IO_BinaryReader_FasterGames_Aseprite_Editor_Library_Frame_
+  commentId: M:FasterGames.Aseprite.Editor.Library.Chunks.CelChunk.ReadPixelData(System.IO.BinaryReader,FasterGames.Aseprite.Editor.Library.Frame)
+  fullName: FasterGames.Aseprite.Editor.Library.Chunks.CelChunk.ReadPixelData(System.IO.BinaryReader, FasterGames.Aseprite.Editor.Library.Frame)
   nameWithType: CelChunk.ReadPixelData(BinaryReader, Frame)
 - uid: FasterGames.Aseprite.Editor.Library.Chunks.CelChunk.ReadPixelData*
   name: ReadPixelData
@@ -547,11 +1022,11 @@ references:
   commentId: T:FasterGames.Aseprite.Editor.Library.Chunks.CelExtraChunk
   fullName: FasterGames.Aseprite.Editor.Library.Chunks.CelExtraChunk
   nameWithType: CelExtraChunk
-- uid: FasterGames.Aseprite.Editor.Library.Chunks.CelExtraChunk.#ctor(System.UInt32,BinaryReader)
+- uid: FasterGames.Aseprite.Editor.Library.Chunks.CelExtraChunk.#ctor(System.UInt32,System.IO.BinaryReader)
   name: CelExtraChunk(UInt32, BinaryReader)
-  href: ref/FasterGames.Aseprite.Editor.Library.Chunks.CelExtraChunk.html#FasterGames_Aseprite_Editor_Library_Chunks_CelExtraChunk__ctor_System_UInt32_BinaryReader_
-  commentId: M:FasterGames.Aseprite.Editor.Library.Chunks.CelExtraChunk.#ctor(System.UInt32,BinaryReader)
-  fullName: FasterGames.Aseprite.Editor.Library.Chunks.CelExtraChunk.CelExtraChunk(System.UInt32, BinaryReader)
+  href: ref/FasterGames.Aseprite.Editor.Library.Chunks.CelExtraChunk.html#FasterGames_Aseprite_Editor_Library_Chunks_CelExtraChunk__ctor_System_UInt32_System_IO_BinaryReader_
+  commentId: M:FasterGames.Aseprite.Editor.Library.Chunks.CelExtraChunk.#ctor(System.UInt32,System.IO.BinaryReader)
+  fullName: FasterGames.Aseprite.Editor.Library.Chunks.CelExtraChunk.CelExtraChunk(System.UInt32, System.IO.BinaryReader)
   nameWithType: CelExtraChunk.CelExtraChunk(UInt32, BinaryReader)
 - uid: FasterGames.Aseprite.Editor.Library.Chunks.CelExtraChunk.#ctor*
   name: CelExtraChunk
@@ -655,11 +1130,11 @@ references:
   commentId: T:FasterGames.Aseprite.Editor.Library.Chunks.CompressedCelChunk
   fullName: FasterGames.Aseprite.Editor.Library.Chunks.CompressedCelChunk
   nameWithType: CompressedCelChunk
-- uid: FasterGames.Aseprite.Editor.Library.Chunks.CompressedCelChunk.#ctor(System.UInt32,System.UInt16,System.Int16,System.Int16,System.Byte,FasterGames.Aseprite.Editor.Library.Frame,BinaryReader)
+- uid: FasterGames.Aseprite.Editor.Library.Chunks.CompressedCelChunk.#ctor(System.UInt32,System.UInt16,System.Int16,System.Int16,System.Byte,FasterGames.Aseprite.Editor.Library.Frame,System.IO.BinaryReader)
   name: CompressedCelChunk(UInt32, UInt16, Int16, Int16, Byte, Frame, BinaryReader)
-  href: ref/FasterGames.Aseprite.Editor.Library.Chunks.CompressedCelChunk.html#FasterGames_Aseprite_Editor_Library_Chunks_CompressedCelChunk__ctor_System_UInt32_System_UInt16_System_Int16_System_Int16_System_Byte_FasterGames_Aseprite_Editor_Library_Frame_BinaryReader_
-  commentId: M:FasterGames.Aseprite.Editor.Library.Chunks.CompressedCelChunk.#ctor(System.UInt32,System.UInt16,System.Int16,System.Int16,System.Byte,FasterGames.Aseprite.Editor.Library.Frame,BinaryReader)
-  fullName: FasterGames.Aseprite.Editor.Library.Chunks.CompressedCelChunk.CompressedCelChunk(System.UInt32, System.UInt16, System.Int16, System.Int16, System.Byte, FasterGames.Aseprite.Editor.Library.Frame, BinaryReader)
+  href: ref/FasterGames.Aseprite.Editor.Library.Chunks.CompressedCelChunk.html#FasterGames_Aseprite_Editor_Library_Chunks_CompressedCelChunk__ctor_System_UInt32_System_UInt16_System_Int16_System_Int16_System_Byte_FasterGames_Aseprite_Editor_Library_Frame_System_IO_BinaryReader_
+  commentId: M:FasterGames.Aseprite.Editor.Library.Chunks.CompressedCelChunk.#ctor(System.UInt32,System.UInt16,System.Int16,System.Int16,System.Byte,FasterGames.Aseprite.Editor.Library.Frame,System.IO.BinaryReader)
+  fullName: FasterGames.Aseprite.Editor.Library.Chunks.CompressedCelChunk.CompressedCelChunk(System.UInt32, System.UInt16, System.Int16, System.Int16, System.Byte, FasterGames.Aseprite.Editor.Library.Frame, System.IO.BinaryReader)
   nameWithType: CompressedCelChunk.CompressedCelChunk(UInt32, UInt16, Int16, Int16, Byte, Frame, BinaryReader)
 - uid: FasterGames.Aseprite.Editor.Library.Chunks.CompressedCelChunk.#ctor*
   name: CompressedCelChunk
@@ -687,11 +1162,11 @@ references:
   commentId: T:FasterGames.Aseprite.Editor.Library.Chunks.FrameTag
   fullName: FasterGames.Aseprite.Editor.Library.Chunks.FrameTag
   nameWithType: FrameTag
-- uid: FasterGames.Aseprite.Editor.Library.Chunks.FrameTag.#ctor(BinaryReader)
+- uid: FasterGames.Aseprite.Editor.Library.Chunks.FrameTag.#ctor(System.IO.BinaryReader)
   name: FrameTag(BinaryReader)
-  href: ref/FasterGames.Aseprite.Editor.Library.Chunks.FrameTag.html#FasterGames_Aseprite_Editor_Library_Chunks_FrameTag__ctor_BinaryReader_
-  commentId: M:FasterGames.Aseprite.Editor.Library.Chunks.FrameTag.#ctor(BinaryReader)
-  fullName: FasterGames.Aseprite.Editor.Library.Chunks.FrameTag.FrameTag(BinaryReader)
+  href: ref/FasterGames.Aseprite.Editor.Library.Chunks.FrameTag.html#FasterGames_Aseprite_Editor_Library_Chunks_FrameTag__ctor_System_IO_BinaryReader_
+  commentId: M:FasterGames.Aseprite.Editor.Library.Chunks.FrameTag.#ctor(System.IO.BinaryReader)
+  fullName: FasterGames.Aseprite.Editor.Library.Chunks.FrameTag.FrameTag(System.IO.BinaryReader)
   nameWithType: FrameTag.FrameTag(BinaryReader)
 - uid: FasterGames.Aseprite.Editor.Library.Chunks.FrameTag.#ctor*
   name: FrameTag
@@ -771,11 +1246,11 @@ references:
   commentId: T:FasterGames.Aseprite.Editor.Library.Chunks.FrameTagsChunk
   fullName: FasterGames.Aseprite.Editor.Library.Chunks.FrameTagsChunk
   nameWithType: FrameTagsChunk
-- uid: FasterGames.Aseprite.Editor.Library.Chunks.FrameTagsChunk.#ctor(System.UInt32,BinaryReader)
+- uid: FasterGames.Aseprite.Editor.Library.Chunks.FrameTagsChunk.#ctor(System.UInt32,System.IO.BinaryReader)
   name: FrameTagsChunk(UInt32, BinaryReader)
-  href: ref/FasterGames.Aseprite.Editor.Library.Chunks.FrameTagsChunk.html#FasterGames_Aseprite_Editor_Library_Chunks_FrameTagsChunk__ctor_System_UInt32_BinaryReader_
-  commentId: M:FasterGames.Aseprite.Editor.Library.Chunks.FrameTagsChunk.#ctor(System.UInt32,BinaryReader)
-  fullName: FasterGames.Aseprite.Editor.Library.Chunks.FrameTagsChunk.FrameTagsChunk(System.UInt32, BinaryReader)
+  href: ref/FasterGames.Aseprite.Editor.Library.Chunks.FrameTagsChunk.html#FasterGames_Aseprite_Editor_Library_Chunks_FrameTagsChunk__ctor_System_UInt32_System_IO_BinaryReader_
+  commentId: M:FasterGames.Aseprite.Editor.Library.Chunks.FrameTagsChunk.#ctor(System.UInt32,System.IO.BinaryReader)
+  fullName: FasterGames.Aseprite.Editor.Library.Chunks.FrameTagsChunk.FrameTagsChunk(System.UInt32, System.IO.BinaryReader)
   nameWithType: FrameTagsChunk.FrameTagsChunk(UInt32, BinaryReader)
 - uid: FasterGames.Aseprite.Editor.Library.Chunks.FrameTagsChunk.#ctor*
   name: FrameTagsChunk
@@ -936,11 +1411,11 @@ references:
   commentId: T:FasterGames.Aseprite.Editor.Library.Chunks.LayerChunk
   fullName: FasterGames.Aseprite.Editor.Library.Chunks.LayerChunk
   nameWithType: LayerChunk
-- uid: FasterGames.Aseprite.Editor.Library.Chunks.LayerChunk.#ctor(System.UInt32,BinaryReader)
+- uid: FasterGames.Aseprite.Editor.Library.Chunks.LayerChunk.#ctor(System.UInt32,System.IO.BinaryReader)
   name: LayerChunk(UInt32, BinaryReader)
-  href: ref/FasterGames.Aseprite.Editor.Library.Chunks.LayerChunk.html#FasterGames_Aseprite_Editor_Library_Chunks_LayerChunk__ctor_System_UInt32_BinaryReader_
-  commentId: M:FasterGames.Aseprite.Editor.Library.Chunks.LayerChunk.#ctor(System.UInt32,BinaryReader)
-  fullName: FasterGames.Aseprite.Editor.Library.Chunks.LayerChunk.LayerChunk(System.UInt32, BinaryReader)
+  href: ref/FasterGames.Aseprite.Editor.Library.Chunks.LayerChunk.html#FasterGames_Aseprite_Editor_Library_Chunks_LayerChunk__ctor_System_UInt32_System_IO_BinaryReader_
+  commentId: M:FasterGames.Aseprite.Editor.Library.Chunks.LayerChunk.#ctor(System.UInt32,System.IO.BinaryReader)
+  fullName: FasterGames.Aseprite.Editor.Library.Chunks.LayerChunk.LayerChunk(System.UInt32, System.IO.BinaryReader)
   nameWithType: LayerChunk.LayerChunk(UInt32, BinaryReader)
 - uid: FasterGames.Aseprite.Editor.Library.Chunks.LayerChunk.#ctor*
   name: LayerChunk
@@ -1090,11 +1565,11 @@ references:
   commentId: T:FasterGames.Aseprite.Editor.Library.Chunks.LinkedCelChunk
   fullName: FasterGames.Aseprite.Editor.Library.Chunks.LinkedCelChunk
   nameWithType: LinkedCelChunk
-- uid: FasterGames.Aseprite.Editor.Library.Chunks.LinkedCelChunk.#ctor(System.UInt32,System.UInt16,System.Int16,System.Int16,System.Byte,FasterGames.Aseprite.Editor.Library.Frame,BinaryReader)
+- uid: FasterGames.Aseprite.Editor.Library.Chunks.LinkedCelChunk.#ctor(System.UInt32,System.UInt16,System.Int16,System.Int16,System.Byte,FasterGames.Aseprite.Editor.Library.Frame,System.IO.BinaryReader)
   name: LinkedCelChunk(UInt32, UInt16, Int16, Int16, Byte, Frame, BinaryReader)
-  href: ref/FasterGames.Aseprite.Editor.Library.Chunks.LinkedCelChunk.html#FasterGames_Aseprite_Editor_Library_Chunks_LinkedCelChunk__ctor_System_UInt32_System_UInt16_System_Int16_System_Int16_System_Byte_FasterGames_Aseprite_Editor_Library_Frame_BinaryReader_
-  commentId: M:FasterGames.Aseprite.Editor.Library.Chunks.LinkedCelChunk.#ctor(System.UInt32,System.UInt16,System.Int16,System.Int16,System.Byte,FasterGames.Aseprite.Editor.Library.Frame,BinaryReader)
-  fullName: FasterGames.Aseprite.Editor.Library.Chunks.LinkedCelChunk.LinkedCelChunk(System.UInt32, System.UInt16, System.Int16, System.Int16, System.Byte, FasterGames.Aseprite.Editor.Library.Frame, BinaryReader)
+  href: ref/FasterGames.Aseprite.Editor.Library.Chunks.LinkedCelChunk.html#FasterGames_Aseprite_Editor_Library_Chunks_LinkedCelChunk__ctor_System_UInt32_System_UInt16_System_Int16_System_Int16_System_Byte_FasterGames_Aseprite_Editor_Library_Frame_System_IO_BinaryReader_
+  commentId: M:FasterGames.Aseprite.Editor.Library.Chunks.LinkedCelChunk.#ctor(System.UInt32,System.UInt16,System.Int16,System.Int16,System.Byte,FasterGames.Aseprite.Editor.Library.Frame,System.IO.BinaryReader)
+  fullName: FasterGames.Aseprite.Editor.Library.Chunks.LinkedCelChunk.LinkedCelChunk(System.UInt32, System.UInt16, System.Int16, System.Int16, System.Byte, FasterGames.Aseprite.Editor.Library.Frame, System.IO.BinaryReader)
   nameWithType: LinkedCelChunk.LinkedCelChunk(UInt32, UInt16, Int16, Int16, Byte, Frame, BinaryReader)
 - uid: FasterGames.Aseprite.Editor.Library.Chunks.LinkedCelChunk.#ctor*
   name: LinkedCelChunk
@@ -1198,11 +1673,11 @@ references:
   commentId: T:FasterGames.Aseprite.Editor.Library.Chunks.PaletteChunk
   fullName: FasterGames.Aseprite.Editor.Library.Chunks.PaletteChunk
   nameWithType: PaletteChunk
-- uid: FasterGames.Aseprite.Editor.Library.Chunks.PaletteChunk.#ctor(System.UInt32,BinaryReader)
+- uid: FasterGames.Aseprite.Editor.Library.Chunks.PaletteChunk.#ctor(System.UInt32,System.IO.BinaryReader)
   name: PaletteChunk(UInt32, BinaryReader)
-  href: ref/FasterGames.Aseprite.Editor.Library.Chunks.PaletteChunk.html#FasterGames_Aseprite_Editor_Library_Chunks_PaletteChunk__ctor_System_UInt32_BinaryReader_
-  commentId: M:FasterGames.Aseprite.Editor.Library.Chunks.PaletteChunk.#ctor(System.UInt32,BinaryReader)
-  fullName: FasterGames.Aseprite.Editor.Library.Chunks.PaletteChunk.PaletteChunk(System.UInt32, BinaryReader)
+  href: ref/FasterGames.Aseprite.Editor.Library.Chunks.PaletteChunk.html#FasterGames_Aseprite_Editor_Library_Chunks_PaletteChunk__ctor_System_UInt32_System_IO_BinaryReader_
+  commentId: M:FasterGames.Aseprite.Editor.Library.Chunks.PaletteChunk.#ctor(System.UInt32,System.IO.BinaryReader)
+  fullName: FasterGames.Aseprite.Editor.Library.Chunks.PaletteChunk.PaletteChunk(System.UInt32, System.IO.BinaryReader)
   nameWithType: PaletteChunk.PaletteChunk(UInt32, BinaryReader)
 - uid: FasterGames.Aseprite.Editor.Library.Chunks.PaletteChunk.#ctor*
   name: PaletteChunk
@@ -1282,11 +1757,11 @@ references:
   commentId: T:FasterGames.Aseprite.Editor.Library.Chunks.PaletteEntry
   fullName: FasterGames.Aseprite.Editor.Library.Chunks.PaletteEntry
   nameWithType: PaletteEntry
-- uid: FasterGames.Aseprite.Editor.Library.Chunks.PaletteEntry.#ctor(BinaryReader)
+- uid: FasterGames.Aseprite.Editor.Library.Chunks.PaletteEntry.#ctor(System.IO.BinaryReader)
   name: PaletteEntry(BinaryReader)
-  href: ref/FasterGames.Aseprite.Editor.Library.Chunks.PaletteEntry.html#FasterGames_Aseprite_Editor_Library_Chunks_PaletteEntry__ctor_BinaryReader_
-  commentId: M:FasterGames.Aseprite.Editor.Library.Chunks.PaletteEntry.#ctor(BinaryReader)
-  fullName: FasterGames.Aseprite.Editor.Library.Chunks.PaletteEntry.PaletteEntry(BinaryReader)
+  href: ref/FasterGames.Aseprite.Editor.Library.Chunks.PaletteEntry.html#FasterGames_Aseprite_Editor_Library_Chunks_PaletteEntry__ctor_System_IO_BinaryReader_
+  commentId: M:FasterGames.Aseprite.Editor.Library.Chunks.PaletteEntry.#ctor(System.IO.BinaryReader)
+  fullName: FasterGames.Aseprite.Editor.Library.Chunks.PaletteEntry.PaletteEntry(System.IO.BinaryReader)
   nameWithType: PaletteEntry.PaletteEntry(BinaryReader)
 - uid: FasterGames.Aseprite.Editor.Library.Chunks.PaletteEntry.#ctor*
   name: PaletteEntry
@@ -1379,11 +1854,11 @@ references:
   commentId: T:FasterGames.Aseprite.Editor.Library.Chunks.RawCelChunk
   fullName: FasterGames.Aseprite.Editor.Library.Chunks.RawCelChunk
   nameWithType: RawCelChunk
-- uid: FasterGames.Aseprite.Editor.Library.Chunks.RawCelChunk.#ctor(System.UInt32,System.UInt16,System.Int16,System.Int16,System.Byte,FasterGames.Aseprite.Editor.Library.Frame,BinaryReader)
+- uid: FasterGames.Aseprite.Editor.Library.Chunks.RawCelChunk.#ctor(System.UInt32,System.UInt16,System.Int16,System.Int16,System.Byte,FasterGames.Aseprite.Editor.Library.Frame,System.IO.BinaryReader)
   name: RawCelChunk(UInt32, UInt16, Int16, Int16, Byte, Frame, BinaryReader)
-  href: ref/FasterGames.Aseprite.Editor.Library.Chunks.RawCelChunk.html#FasterGames_Aseprite_Editor_Library_Chunks_RawCelChunk__ctor_System_UInt32_System_UInt16_System_Int16_System_Int16_System_Byte_FasterGames_Aseprite_Editor_Library_Frame_BinaryReader_
-  commentId: M:FasterGames.Aseprite.Editor.Library.Chunks.RawCelChunk.#ctor(System.UInt32,System.UInt16,System.Int16,System.Int16,System.Byte,FasterGames.Aseprite.Editor.Library.Frame,BinaryReader)
-  fullName: FasterGames.Aseprite.Editor.Library.Chunks.RawCelChunk.RawCelChunk(System.UInt32, System.UInt16, System.Int16, System.Int16, System.Byte, FasterGames.Aseprite.Editor.Library.Frame, BinaryReader)
+  href: ref/FasterGames.Aseprite.Editor.Library.Chunks.RawCelChunk.html#FasterGames_Aseprite_Editor_Library_Chunks_RawCelChunk__ctor_System_UInt32_System_UInt16_System_Int16_System_Int16_System_Byte_FasterGames_Aseprite_Editor_Library_Frame_System_IO_BinaryReader_
+  commentId: M:FasterGames.Aseprite.Editor.Library.Chunks.RawCelChunk.#ctor(System.UInt32,System.UInt16,System.Int16,System.Int16,System.Byte,FasterGames.Aseprite.Editor.Library.Frame,System.IO.BinaryReader)
+  fullName: FasterGames.Aseprite.Editor.Library.Chunks.RawCelChunk.RawCelChunk(System.UInt32, System.UInt16, System.Int16, System.Int16, System.Byte, FasterGames.Aseprite.Editor.Library.Frame, System.IO.BinaryReader)
   nameWithType: RawCelChunk.RawCelChunk(UInt32, UInt16, Int16, Int16, Byte, Frame, BinaryReader)
 - uid: FasterGames.Aseprite.Editor.Library.Chunks.RawCelChunk.#ctor*
   name: RawCelChunk
@@ -1488,11 +1963,11 @@ references:
   commentId: T:FasterGames.Aseprite.Editor.Library.Frame
   fullName: FasterGames.Aseprite.Editor.Library.Frame
   nameWithType: Frame
-- uid: FasterGames.Aseprite.Editor.Library.Frame.#ctor(FasterGames.Aseprite.Editor.Library.AseFile,BinaryReader)
+- uid: FasterGames.Aseprite.Editor.Library.Frame.#ctor(FasterGames.Aseprite.Editor.Library.AseFile,System.IO.BinaryReader)
   name: Frame(AseFile, BinaryReader)
-  href: ref/FasterGames.Aseprite.Editor.Library.Frame.html#FasterGames_Aseprite_Editor_Library_Frame__ctor_FasterGames_Aseprite_Editor_Library_AseFile_BinaryReader_
-  commentId: M:FasterGames.Aseprite.Editor.Library.Frame.#ctor(FasterGames.Aseprite.Editor.Library.AseFile,BinaryReader)
-  fullName: FasterGames.Aseprite.Editor.Library.Frame.Frame(FasterGames.Aseprite.Editor.Library.AseFile, BinaryReader)
+  href: ref/FasterGames.Aseprite.Editor.Library.Frame.html#FasterGames_Aseprite_Editor_Library_Frame__ctor_FasterGames_Aseprite_Editor_Library_AseFile_System_IO_BinaryReader_
+  commentId: M:FasterGames.Aseprite.Editor.Library.Frame.#ctor(FasterGames.Aseprite.Editor.Library.AseFile,System.IO.BinaryReader)
+  fullName: FasterGames.Aseprite.Editor.Library.Frame.Frame(FasterGames.Aseprite.Editor.Library.AseFile, System.IO.BinaryReader)
   nameWithType: Frame.Frame(AseFile, BinaryReader)
 - uid: FasterGames.Aseprite.Editor.Library.Frame.#ctor*
   name: Frame
@@ -2457,262 +2932,3 @@ references:
   isSpec: "True"
   fullName: FasterGames.Aseprite.Editor.Library.Utils.Texture2DUtil.CreateTransparentTexture
   nameWithType: Texture2DUtil.CreateTransparentTexture
-- uid: FasterGames.Aseprite.Editor.TextureSettings
-  name: TextureSettings
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html
-  commentId: T:FasterGames.Aseprite.Editor.TextureSettings
-  fullName: FasterGames.Aseprite.Editor.TextureSettings
-  nameWithType: TextureSettings
-- uid: FasterGames.Aseprite.Editor.TextureSettings.alphaIsTransparency
-  name: alphaIsTransparency
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_alphaIsTransparency
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.alphaIsTransparency
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.alphaIsTransparency
-  nameWithType: TextureSettings.alphaIsTransparency
-- uid: FasterGames.Aseprite.Editor.TextureSettings.alphaSource
-  name: alphaSource
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_alphaSource
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.alphaSource
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.alphaSource
-  nameWithType: TextureSettings.alphaSource
-- uid: FasterGames.Aseprite.Editor.TextureSettings.alphaTestReferenceValue
-  name: alphaTestReferenceValue
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_alphaTestReferenceValue
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.alphaTestReferenceValue
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.alphaTestReferenceValue
-  nameWithType: TextureSettings.alphaTestReferenceValue
-- uid: FasterGames.Aseprite.Editor.TextureSettings.aniso
-  name: aniso
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_aniso
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.aniso
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.aniso
-  nameWithType: TextureSettings.aniso
-- uid: FasterGames.Aseprite.Editor.TextureSettings.borderMipmap
-  name: borderMipmap
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_borderMipmap
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.borderMipmap
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.borderMipmap
-  nameWithType: TextureSettings.borderMipmap
-- uid: FasterGames.Aseprite.Editor.TextureSettings.convertToNormalMap
-  name: convertToNormalMap
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_convertToNormalMap
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.convertToNormalMap
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.convertToNormalMap
-  nameWithType: TextureSettings.convertToNormalMap
-- uid: FasterGames.Aseprite.Editor.TextureSettings.cubemapConvolution
-  name: cubemapConvolution
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_cubemapConvolution
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.cubemapConvolution
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.cubemapConvolution
-  nameWithType: TextureSettings.cubemapConvolution
-- uid: FasterGames.Aseprite.Editor.TextureSettings.fadeOut
-  name: fadeOut
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_fadeOut
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.fadeOut
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.fadeOut
-  nameWithType: TextureSettings.fadeOut
-- uid: FasterGames.Aseprite.Editor.TextureSettings.filterMode
-  name: filterMode
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_filterMode
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.filterMode
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.filterMode
-  nameWithType: TextureSettings.filterMode
-- uid: FasterGames.Aseprite.Editor.TextureSettings.generateCubemap
-  name: generateCubemap
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_generateCubemap
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.generateCubemap
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.generateCubemap
-  nameWithType: TextureSettings.generateCubemap
-- uid: FasterGames.Aseprite.Editor.TextureSettings.heightmapScale
-  name: heightmapScale
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_heightmapScale
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.heightmapScale
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.heightmapScale
-  nameWithType: TextureSettings.heightmapScale
-- uid: FasterGames.Aseprite.Editor.TextureSettings.mipmapBias
-  name: mipmapBias
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_mipmapBias
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.mipmapBias
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.mipmapBias
-  nameWithType: TextureSettings.mipmapBias
-- uid: FasterGames.Aseprite.Editor.TextureSettings.mipmapEnabled
-  name: mipmapEnabled
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_mipmapEnabled
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.mipmapEnabled
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.mipmapEnabled
-  nameWithType: TextureSettings.mipmapEnabled
-- uid: FasterGames.Aseprite.Editor.TextureSettings.mipmapFadeDistanceEnd
-  name: mipmapFadeDistanceEnd
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_mipmapFadeDistanceEnd
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.mipmapFadeDistanceEnd
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.mipmapFadeDistanceEnd
-  nameWithType: TextureSettings.mipmapFadeDistanceEnd
-- uid: FasterGames.Aseprite.Editor.TextureSettings.mipmapFadeDistanceStart
-  name: mipmapFadeDistanceStart
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_mipmapFadeDistanceStart
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.mipmapFadeDistanceStart
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.mipmapFadeDistanceStart
-  nameWithType: TextureSettings.mipmapFadeDistanceStart
-- uid: FasterGames.Aseprite.Editor.TextureSettings.mipmapFilter
-  name: mipmapFilter
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_mipmapFilter
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.mipmapFilter
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.mipmapFilter
-  nameWithType: TextureSettings.mipmapFilter
-- uid: FasterGames.Aseprite.Editor.TextureSettings.mipMapsPreserveCoverage
-  name: mipMapsPreserveCoverage
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_mipMapsPreserveCoverage
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.mipMapsPreserveCoverage
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.mipMapsPreserveCoverage
-  nameWithType: TextureSettings.mipMapsPreserveCoverage
-- uid: FasterGames.Aseprite.Editor.TextureSettings.normalMapFilter
-  name: normalMapFilter
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_normalMapFilter
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.normalMapFilter
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.normalMapFilter
-  nameWithType: TextureSettings.normalMapFilter
-- uid: FasterGames.Aseprite.Editor.TextureSettings.npotScale
-  name: npotScale
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_npotScale
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.npotScale
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.npotScale
-  nameWithType: TextureSettings.npotScale
-- uid: FasterGames.Aseprite.Editor.TextureSettings.readable
-  name: readable
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_readable
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.readable
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.readable
-  nameWithType: TextureSettings.readable
-- uid: FasterGames.Aseprite.Editor.TextureSettings.seamlessCubemap
-  name: seamlessCubemap
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_seamlessCubemap
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.seamlessCubemap
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.seamlessCubemap
-  nameWithType: TextureSettings.seamlessCubemap
-- uid: FasterGames.Aseprite.Editor.TextureSettings.singleChannelComponent
-  name: singleChannelComponent
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_singleChannelComponent
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.singleChannelComponent
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.singleChannelComponent
-  nameWithType: TextureSettings.singleChannelComponent
-- uid: FasterGames.Aseprite.Editor.TextureSettings.spriteAlignment
-  name: spriteAlignment
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_spriteAlignment
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.spriteAlignment
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.spriteAlignment
-  nameWithType: TextureSettings.spriteAlignment
-- uid: FasterGames.Aseprite.Editor.TextureSettings.spriteBorder
-  name: spriteBorder
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_spriteBorder
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.spriteBorder
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.spriteBorder
-  nameWithType: TextureSettings.spriteBorder
-- uid: FasterGames.Aseprite.Editor.TextureSettings.spriteExtrude
-  name: spriteExtrude
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_spriteExtrude
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.spriteExtrude
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.spriteExtrude
-  nameWithType: TextureSettings.spriteExtrude
-- uid: FasterGames.Aseprite.Editor.TextureSettings.spriteGenerateFallbackPhysicsShape
-  name: spriteGenerateFallbackPhysicsShape
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_spriteGenerateFallbackPhysicsShape
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.spriteGenerateFallbackPhysicsShape
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.spriteGenerateFallbackPhysicsShape
-  nameWithType: TextureSettings.spriteGenerateFallbackPhysicsShape
-- uid: FasterGames.Aseprite.Editor.TextureSettings.spriteMeshType
-  name: spriteMeshType
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_spriteMeshType
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.spriteMeshType
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.spriteMeshType
-  nameWithType: TextureSettings.spriteMeshType
-- uid: FasterGames.Aseprite.Editor.TextureSettings.spriteMode
-  name: spriteMode
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_spriteMode
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.spriteMode
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.spriteMode
-  nameWithType: TextureSettings.spriteMode
-- uid: FasterGames.Aseprite.Editor.TextureSettings.spritePivot
-  name: spritePivot
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_spritePivot
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.spritePivot
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.spritePivot
-  nameWithType: TextureSettings.spritePivot
-- uid: FasterGames.Aseprite.Editor.TextureSettings.spritePixelsPerUnit
-  name: spritePixelsPerUnit
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_spritePixelsPerUnit
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.spritePixelsPerUnit
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.spritePixelsPerUnit
-  nameWithType: TextureSettings.spritePixelsPerUnit
-- uid: FasterGames.Aseprite.Editor.TextureSettings.spriteTessellationDetail
-  name: spriteTessellationDetail
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_spriteTessellationDetail
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.spriteTessellationDetail
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.spriteTessellationDetail
-  nameWithType: TextureSettings.spriteTessellationDetail
-- uid: FasterGames.Aseprite.Editor.TextureSettings.sRGBTexture
-  name: sRGBTexture
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_sRGBTexture
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.sRGBTexture
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.sRGBTexture
-  nameWithType: TextureSettings.sRGBTexture
-- uid: FasterGames.Aseprite.Editor.TextureSettings.streamingMipmaps
-  name: streamingMipmaps
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_streamingMipmaps
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.streamingMipmaps
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.streamingMipmaps
-  nameWithType: TextureSettings.streamingMipmaps
-- uid: FasterGames.Aseprite.Editor.TextureSettings.streamingMipmapsPriority
-  name: streamingMipmapsPriority
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_streamingMipmapsPriority
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.streamingMipmapsPriority
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.streamingMipmapsPriority
-  nameWithType: TextureSettings.streamingMipmapsPriority
-- uid: FasterGames.Aseprite.Editor.TextureSettings.textureShape
-  name: textureShape
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_textureShape
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.textureShape
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.textureShape
-  nameWithType: TextureSettings.textureShape
-- uid: FasterGames.Aseprite.Editor.TextureSettings.textureType
-  name: textureType
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_textureType
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.textureType
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.textureType
-  nameWithType: TextureSettings.textureType
-- uid: FasterGames.Aseprite.Editor.TextureSettings.ToImporterSettings
-  name: ToImporterSettings()
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_ToImporterSettings
-  commentId: M:FasterGames.Aseprite.Editor.TextureSettings.ToImporterSettings
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.ToImporterSettings()
-  nameWithType: TextureSettings.ToImporterSettings()
-- uid: FasterGames.Aseprite.Editor.TextureSettings.ToImporterSettings*
-  name: ToImporterSettings
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_ToImporterSettings_
-  commentId: Overload:FasterGames.Aseprite.Editor.TextureSettings.ToImporterSettings
-  isSpec: "True"
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.ToImporterSettings
-  nameWithType: TextureSettings.ToImporterSettings
-- uid: FasterGames.Aseprite.Editor.TextureSettings.wrapMode
-  name: wrapMode
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_wrapMode
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.wrapMode
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.wrapMode
-  nameWithType: TextureSettings.wrapMode
-- uid: FasterGames.Aseprite.Editor.TextureSettings.wrapModeU
-  name: wrapModeU
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_wrapModeU
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.wrapModeU
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.wrapModeU
-  nameWithType: TextureSettings.wrapModeU
-- uid: FasterGames.Aseprite.Editor.TextureSettings.wrapModeV
-  name: wrapModeV
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_wrapModeV
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.wrapModeV
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.wrapModeV
-  nameWithType: TextureSettings.wrapModeV
-- uid: FasterGames.Aseprite.Editor.TextureSettings.wrapModeW
-  name: wrapModeW
-  href: ref/FasterGames.Aseprite.Editor.TextureSettings.html#FasterGames_Aseprite_Editor_TextureSettings_wrapModeW
-  commentId: F:FasterGames.Aseprite.Editor.TextureSettings.wrapModeW
-  fullName: FasterGames.Aseprite.Editor.TextureSettings.wrapModeW
-  nameWithType: TextureSettings.wrapModeW

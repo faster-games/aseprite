@@ -5,10 +5,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Class FrameTag
+    <title>Class AsepriteMetadata
    | Aseprite </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Class FrameTag
+    <meta name="title" content="Class AsepriteMetadata
    | Aseprite ">
     <meta name="generator" content="docfx 2.56.7.0">
     <meta name="description" content="An Aseprite importer for Unity3D">
@@ -68,59 +68,183 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="FasterGames.Aseprite.Editor.Library.Chunks.FrameTag">
+            <article class="content wrap" id="_content" data-uid="FasterGames.Aseprite.AsepriteMetadata">
   
   
-  <h1 id="FasterGames_Aseprite_Editor_Library_Chunks_FrameTag" data-uid="FasterGames.Aseprite.Editor.Library.Chunks.FrameTag" class="text-break">Class FrameTag
+  <h1 id="FasterGames_Aseprite_AsepriteMetadata" data-uid="FasterGames.Aseprite.AsepriteMetadata" class="text-break">Class AsepriteMetadata
   </h1>
   <div class="markdown level0 summary"></div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
     <div class="level0"><span class="xref">System.Object</span></div>
-    <div class="level1"><span class="xref">FrameTag</span></div>
+    <div class="level1"><span class="xref">AsepriteMetadata</span></div>
   </div>
-  <div class="inheritedMembers">
-    <h5>Inherited Members</h5>
-    <div>
-      <span class="xref">System.Object.Equals(System.Object)</span>
-    </div>
-    <div>
-      <span class="xref">System.Object.Equals(System.Object, System.Object)</span>
-    </div>
-    <div>
-      <span class="xref">System.Object.GetHashCode()</span>
-    </div>
-    <div>
-      <span class="xref">System.Object.GetType()</span>
-    </div>
-    <div>
-      <span class="xref">System.Object.MemberwiseClone()</span>
-    </div>
-    <div>
-      <span class="xref">System.Object.ToString()</span>
-    </div>
-    <div>
-      <span class="xref">System.Object.ReferenceEquals(System.Object, System.Object)</span>
-    </div>
-  </div>
-  <h6><strong>Namespace</strong>: <a class="xref" href="FasterGames.Aseprite.Editor.Library.Chunks.html">FasterGames.Aseprite.Editor.Library.Chunks</a></h6>
+  <h6><strong>Namespace</strong>: <a class="xref" href="FasterGames.Aseprite.html">FasterGames.Aseprite</a></h6>
   <h6><strong>Assembly</strong>: cs.temp.dll.dll</h6>
-  <h5 id="FasterGames_Aseprite_Editor_Library_Chunks_FrameTag_syntax">Syntax</h5>
+  <h5 id="FasterGames_Aseprite_AsepriteMetadata_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public class FrameTag</code></pre>
+    <pre><code class="lang-csharp hljs">[Serializable]
+public class AsepriteMetadata : ScriptableObject</code></pre>
   </div>
-  <h3 id="constructors">Constructors
+  <h3 id="fields">Fields
   </h3>
   
   
-  <a id="FasterGames_Aseprite_Editor_Library_Chunks_FrameTag__ctor_" data-uid="FasterGames.Aseprite.Editor.Library.Chunks.FrameTag.#ctor*"></a>
-  <h4 id="FasterGames_Aseprite_Editor_Library_Chunks_FrameTag__ctor_System_IO_BinaryReader_" data-uid="FasterGames.Aseprite.Editor.Library.Chunks.FrameTag.#ctor(System.IO.BinaryReader)">FrameTag(BinaryReader)</h4>
+  <h4 id="FasterGames_Aseprite_AsepriteMetadata_frameCount" data-uid="FasterGames.Aseprite.AsepriteMetadata.frameCount">frameCount</h4>
   <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public FrameTag(BinaryReader reader)</code></pre>
+    <pre><code class="lang-csharp hljs">public int frameCount</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <h4 id="FasterGames_Aseprite_AsepriteMetadata_height" data-uid="FasterGames.Aseprite.AsepriteMetadata.height">height</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int height</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <h4 id="FasterGames_Aseprite_AsepriteMetadata_layerCount" data-uid="FasterGames.Aseprite.AsepriteMetadata.layerCount">layerCount</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int layerCount</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <h4 id="FasterGames_Aseprite_AsepriteMetadata_layerNames" data-uid="FasterGames.Aseprite.AsepriteMetadata.layerNames">layerNames</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string[] layerNames</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span>[]</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <h4 id="FasterGames_Aseprite_AsepriteMetadata_layerTextures" data-uid="FasterGames.Aseprite.AsepriteMetadata.layerTextures">layerTextures</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Texture2D[] layerTextures</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">Texture2D</span>[]</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <h4 id="FasterGames_Aseprite_AsepriteMetadata_width" data-uid="FasterGames.Aseprite.AsepriteMetadata.width">width</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int width</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="methods">Methods
+  </h3>
+  
+  
+  <a id="FasterGames_Aseprite_AsepriteMetadata_FormatName_" data-uid="FasterGames.Aseprite.AsepriteMetadata.FormatName*"></a>
+  <h4 id="FasterGames_Aseprite_AsepriteMetadata_FormatName_System_String_System_String_System_String_" data-uid="FasterGames.Aseprite.AsepriteMetadata.FormatName(System.String,System.String,System.String)">FormatName(String, String, String)</h4>
+  <div class="markdown level1 summary"><p>Formats a name of an Aseprite sub-resource</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static string FormatName(string assetPath, string layerName, string itemName)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -133,125 +257,26 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">System.IO.BinaryReader</span></td>
-        <td><span class="parametername">reader</span></td>
-        <td></td>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">assetPath</span></td>
+        <td><p>asset path</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">layerName</span></td>
+        <td><p>sub-resource layer name</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">itemName</span></td>
+        <td><p>sub-resource item name</p>
+</td>
       </tr>
     </tbody>
   </table>
-  <h3 id="properties">Properties
-  </h3>
-  
-  
-  <a id="FasterGames_Aseprite_Editor_Library_Chunks_FrameTag_Animation_" data-uid="FasterGames.Aseprite.Editor.Library.Chunks.FrameTag.Animation*"></a>
-  <h4 id="FasterGames_Aseprite_Editor_Library_Chunks_FrameTag_Animation" data-uid="FasterGames.Aseprite.Editor.Library.Chunks.FrameTag.Animation">Animation</h4>
-  <div class="markdown level1 summary"></div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public LoopAnimation Animation { get; }</code></pre>
-  </div>
-  <h5 class="propertyValue">Property Value</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a class="xref" href="FasterGames.Aseprite.Editor.Library.Chunks.LoopAnimation.html">LoopAnimation</a></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-  
-  
-  <a id="FasterGames_Aseprite_Editor_Library_Chunks_FrameTag_FrameFrom_" data-uid="FasterGames.Aseprite.Editor.Library.Chunks.FrameTag.FrameFrom*"></a>
-  <h4 id="FasterGames_Aseprite_Editor_Library_Chunks_FrameTag_FrameFrom" data-uid="FasterGames.Aseprite.Editor.Library.Chunks.FrameTag.FrameFrom">FrameFrom</h4>
-  <div class="markdown level1 summary"></div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public ushort FrameFrom { get; }</code></pre>
-  </div>
-  <h5 class="propertyValue">Property Value</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><span class="xref">System.UInt16</span></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-  
-  
-  <a id="FasterGames_Aseprite_Editor_Library_Chunks_FrameTag_FrameTo_" data-uid="FasterGames.Aseprite.Editor.Library.Chunks.FrameTag.FrameTo*"></a>
-  <h4 id="FasterGames_Aseprite_Editor_Library_Chunks_FrameTag_FrameTo" data-uid="FasterGames.Aseprite.Editor.Library.Chunks.FrameTag.FrameTo">FrameTo</h4>
-  <div class="markdown level1 summary"></div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public ushort FrameTo { get; }</code></pre>
-  </div>
-  <h5 class="propertyValue">Property Value</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><span class="xref">System.UInt16</span></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-  
-  
-  <a id="FasterGames_Aseprite_Editor_Library_Chunks_FrameTag_TagColor_" data-uid="FasterGames.Aseprite.Editor.Library.Chunks.FrameTag.TagColor*"></a>
-  <h4 id="FasterGames_Aseprite_Editor_Library_Chunks_FrameTag_TagColor" data-uid="FasterGames.Aseprite.Editor.Library.Chunks.FrameTag.TagColor">TagColor</h4>
-  <div class="markdown level1 summary"></div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public Color TagColor { get; set; }</code></pre>
-  </div>
-  <h5 class="propertyValue">Property Value</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><span class="xref">Color</span></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-  
-  
-  <a id="FasterGames_Aseprite_Editor_Library_Chunks_FrameTag_TagName_" data-uid="FasterGames.Aseprite.Editor.Library.Chunks.FrameTag.TagName*"></a>
-  <h4 id="FasterGames_Aseprite_Editor_Library_Chunks_FrameTag_TagName" data-uid="FasterGames.Aseprite.Editor.Library.Chunks.FrameTag.TagName">TagName</h4>
-  <div class="markdown level1 summary"></div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public string TagName { get; }</code></pre>
-  </div>
-  <h5 class="propertyValue">Property Value</h5>
+  <h5 class="returns">Returns</h5>
   <table class="table table-bordered table-striped table-condensed">
     <thead>
       <tr>
@@ -262,7 +287,8 @@
     <tbody>
       <tr>
         <td><span class="xref">System.String</span></td>
-        <td></td>
+        <td><p>name</p>
+</td>
       </tr>
     </tbody>
   </table>

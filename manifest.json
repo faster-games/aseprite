@@ -54,7 +54,7 @@
       "output": {
         ".html": {
           "relative_path": "manual/getting-started.html",
-          "hash": "Pn7Fl8ZaZ07QaOHH6I4zmg=="
+          "hash": "K1PSfOlhFaFtQ+4bj89nrg=="
         }
       },
       "is_incremental": false,
@@ -98,11 +98,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.AsepriteAsset.yml",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.AsepriteMetadata.yml",
       "output": {
         ".html": {
-          "relative_path": "ref/FasterGames.Aseprite.AsepriteAsset.html",
-          "hash": "xVz+y+hqjbtc1BovNeSqnw=="
+          "relative_path": "ref/FasterGames.Aseprite.AsepriteMetadata.html",
+          "hash": "jvIc1oIQYsbFC7oomok1Hg=="
         }
       },
       "is_incremental": false,
@@ -114,7 +114,7 @@
       "output": {
         ".html": {
           "relative_path": "ref/FasterGames.Aseprite.Editor.AsepriteImporter.html",
-          "hash": "X+M3gnNgmqGXjM3FOBMetg=="
+          "hash": "Kz3pVCeuc3oPqUzy6sazOA=="
         }
       },
       "is_incremental": false,
@@ -122,11 +122,119 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.AsepriteImporterEditor.yml",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Options.yml",
       "output": {
         ".html": {
-          "relative_path": "ref/FasterGames.Aseprite.Editor.AsepriteImporterEditor.html",
-          "hash": "mK6kTdBKRvIiOeAAsU2Wbw=="
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Options.html",
+          "hash": "Q72DKOwInXmkg7BLqN5rYg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Result.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.Result.html",
+          "hash": "mRvNCNADByZUqRoGr47ggg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.UserOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.UserOptions.html",
+          "hash": "J10sPWPlvNamtBOBSEdmHg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.html",
+          "hash": "sIcj78qY8Xdh9Y9mFyyT7g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Importers.BaseImporter-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Importers.BaseImporter-2.html",
+          "hash": "/ou+Kxdh4mWKhFo2aN5Avg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Importers.PrefabImporter.UserOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Importers.PrefabImporter.UserOptions.html",
+          "hash": "+LNSFGo6FexacMbmMNP0ag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Importers.PrefabImporter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Importers.PrefabImporter.html",
+          "hash": "Mc2NhKmgqqCZAphRfbXQow=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html",
+          "hash": "UGlAYE81Jhe2cVo0HqAxag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.html",
+          "hash": "swtt9/J1++/OQIotOZ1U8A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Importers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Importers.html",
+          "hash": "GfrMnK5iTergwl1LweUguA=="
         }
       },
       "is_incremental": false,
@@ -138,7 +246,7 @@
       "output": {
         ".html": {
           "relative_path": "ref/FasterGames.Aseprite.Editor.Library.AseFile.html",
-          "hash": "O5SOINpfE7jVTZ0/kh1Jww=="
+          "hash": "2H6JUcSuGBwFYxghDRgDPg=="
         }
       },
       "is_incremental": false,
@@ -150,7 +258,7 @@
       "output": {
         ".html": {
           "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Chunk.html",
-          "hash": "u9qq9dDdCGooC2g58WLdbA=="
+          "hash": "G++16vceJ1yf0t0vETJ7Mg=="
         }
       },
       "is_incremental": false,
@@ -174,7 +282,7 @@
       "output": {
         ".html": {
           "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Chunks.CelChunk.html",
-          "hash": "lU1bUfO7luJSxrw2/Sjdkg=="
+          "hash": "JNcvy7zeO9YETVRFdxN+PQ=="
         }
       },
       "is_incremental": false,
@@ -186,7 +294,7 @@
       "output": {
         ".html": {
           "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Chunks.CelExtraChunk.html",
-          "hash": "FlS7JwfzJzpilXNWAG8dIQ=="
+          "hash": "3xBDHdepEJhn9X7KySH5jQ=="
         }
       },
       "is_incremental": false,
@@ -210,7 +318,7 @@
       "output": {
         ".html": {
           "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Chunks.CompressedCelChunk.html",
-          "hash": "Lan2eeL4Pohp6UvRmyDWUg=="
+          "hash": "eDp7kg0mRM8cNQqO6Fe4Sg=="
         }
       },
       "is_incremental": false,
@@ -222,7 +330,7 @@
       "output": {
         ".html": {
           "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Chunks.FrameTag.html",
-          "hash": "iuXBiElmsRcBeXSrUIn40Q=="
+          "hash": "QNNl6PlWgihKmhvWJXeYNw=="
         }
       },
       "is_incremental": false,
@@ -234,7 +342,7 @@
       "output": {
         ".html": {
           "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Chunks.FrameTagsChunk.html",
-          "hash": "+fKBrvnW9i6qJVvaSxmNHw=="
+          "hash": "bEvMwLQbBAzMtZ1hbCFk/Q=="
         }
       },
       "is_incremental": false,
@@ -258,7 +366,7 @@
       "output": {
         ".html": {
           "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Chunks.LayerChunk.html",
-          "hash": "Iq29e6MuuT6XBF8t+Gfa8g=="
+          "hash": "iADSn7uU/yXgm5va8uGTXA=="
         }
       },
       "is_incremental": false,
@@ -282,7 +390,7 @@
       "output": {
         ".html": {
           "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Chunks.LinkedCelChunk.html",
-          "hash": "sr4FfxwFVJs0OND++2xzxg=="
+          "hash": "SfZrfso1NgJKWpptcJPSLg=="
         }
       },
       "is_incremental": false,
@@ -306,7 +414,7 @@
       "output": {
         ".html": {
           "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Chunks.PaletteChunk.html",
-          "hash": "eF7Lm+bJRh0JfixzsOlztg=="
+          "hash": "c+h2EBMs36nX8THJE8J0oQ=="
         }
       },
       "is_incremental": false,
@@ -318,7 +426,7 @@
       "output": {
         ".html": {
           "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Chunks.PaletteEntry.html",
-          "hash": "nlk8jproNYtlRSNWfjo6AA=="
+          "hash": "wRyvWFamrd/TB1J/jgiPOA=="
         }
       },
       "is_incremental": false,
@@ -330,7 +438,7 @@
       "output": {
         ".html": {
           "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Chunks.RawCelChunk.html",
-          "hash": "mrlScLqCBrxo0YOkWWLcaA=="
+          "hash": "UANQjIt56W2KEJFZbccL4A=="
         }
       },
       "is_incremental": false,
@@ -366,7 +474,7 @@
       "output": {
         ".html": {
           "relative_path": "ref/FasterGames.Aseprite.Editor.Library.Frame.html",
-          "hash": "D6goBTnDxWE4tjZ293l2mQ=="
+          "hash": "arO+AJkv84adst1pQCYFvA=="
         }
       },
       "is_incremental": false,
@@ -402,7 +510,7 @@
       "output": {
         ".html": {
           "relative_path": "ref/FasterGames.Aseprite.Editor.Library.FrameOptions.html",
-          "hash": "btxlFF6RbuFlPpXyCOdTnw=="
+          "hash": "kio1VsQQDoV5Dt3HWBqG3A=="
         }
       },
       "is_incremental": false,
@@ -530,23 +638,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.TextureSettings.yml",
-      "output": {
-        ".html": {
-          "relative_path": "ref/FasterGames.Aseprite.Editor.TextureSettings.html",
-          "hash": "mvpkhHbS0UsDMRdHLKtFjQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.yml",
       "output": {
         ".html": {
           "relative_path": "ref/FasterGames.Aseprite.Editor.html",
-          "hash": "7Q3Jh61RkV90OBfD7M31Vg=="
+          "hash": "eT3gSmzp2+ysHAHSXNErrg=="
         }
       },
       "is_incremental": false,
@@ -558,7 +654,7 @@
       "output": {
         ".html": {
           "relative_path": "ref/FasterGames.Aseprite.html",
-          "hash": "UlNnTNIVakRoCJSmgP0tIQ=="
+          "hash": "zlpB6nWY93bf7x5AmbzaFw=="
         }
       },
       "is_incremental": false,
@@ -570,7 +666,7 @@
       "output": {
         ".html": {
           "relative_path": "ref/toc.html",
-          "hash": "+MnsamtxazQYAkYQhdPLkA=="
+          "hash": "exfTv8GqQlCdHPL9W7c8EA=="
         }
       },
       "is_incremental": false,
@@ -597,7 +693,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 39,
+          "total_file_count": 47,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {
