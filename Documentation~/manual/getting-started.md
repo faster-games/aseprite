@@ -15,8 +15,11 @@ Options for controlling prefab generation.
 
 The texture settings Unity will use for Texture import. See [Unity Docs: Texture Import Settings](https://docs.unity3d.com/Manual/class-TextureImporter.html)
 
+- `sliceOptions` - Extension to the default set, used to control Spritesheet dimension data, in the event you are importing a spritesheet. Leaving as default (`0`s) will import as one sprite per layer. Slicing will import as multiple sprites per layer.
+
 ### Rig Options
 
 Options for controlling animation and rigging generation.
 
+- `Create Rig` - If disabled, no rig (animations, avatars, etc) will be created. 
 - `loopTags` - Controls which frame tags from the aseprite file will import as looping animations. By default, all animations are non-looping.
