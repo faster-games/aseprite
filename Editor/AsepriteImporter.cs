@@ -8,7 +8,7 @@ using UnityEngine;
 
 namespace FasterGames.Aseprite.Editor
 {
-    [ScriptedImporter(version: 2, new []{"ase", "aseprite"})]
+    [ScriptedImporter(version: 3, new []{"ase", "aseprite"})]
     public class AsepriteImporter : ScriptedImporter
     {
         public PrefabImporter.UserOptions prefabOptions = new PrefabImporter.UserOptions();
@@ -47,6 +47,18 @@ namespace FasterGames.Aseprite.Editor
 
             var spritesByLayer = textureImporter.ImportAsset(ctx);
 
+            // map in the layer default sprites
+            for (var layerIndex = 0; layerIndex < layerChunks.Count; layerIndex++)
+            {
+                var layer = layerChunks[layerIndex];
+                var layerName = layer.LayerName;
+
+                var layerObject = rootPrefab.transform.Find(layerName);
+                var layerSprite = layerObject.GetComponent<SpriteRenderer>();
+                
+                layerSprite.sprite = spritesByLayer[layerName][0];
+            }
+            
             var rigImporter = new AnimationRigImporter(file, new AnimationRigImporter.Options()
             {
                 userOptions = rigOptions,

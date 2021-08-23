@@ -15,6 +15,7 @@ namespace FasterGames.Aseprite.Editor.Importers
         [Serializable]
         public class UserOptions
         {
+            public bool createRig = true;
             public List<string> loopTags = new List<string>();
         }
         
@@ -41,21 +42,13 @@ namespace FasterGames.Aseprite.Editor.Importers
 
         public override Result ImportAsset(AssetImportContext ctx)
         {
+            // nothing to do
+            if (!m_Options.userOptions.createRig)
+                return null;
+            
             // get the layers, for future use
             var layerChunks = Source.GetChunks<LayerChunk>();
-            
-            // create the layer objects
-            for (var layerIndex = 0; layerIndex < layerChunks.Count; layerIndex++)
-            {
-                var layer = layerChunks[layerIndex];
-                var layerName = layer.LayerName;
 
-                var layerObject = m_Options.rootObject.transform.Find(layerName);
-                var layerSprite = layerObject.GetComponent<SpriteRenderer>();
-                
-                layerSprite.sprite = m_Options.spritesByLayerName[layerName][0];
-            }
-            
             // create the avatar
             var rootAvatar = AvatarBuilder.BuildGenericAvatar(m_Options.rootObject, m_Options.rootObject.name);
             rootAvatar.name = AsepriteMetadata.FormatName(ctx.assetPath, null, null);

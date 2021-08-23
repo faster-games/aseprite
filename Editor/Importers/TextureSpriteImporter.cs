@@ -12,6 +12,13 @@ namespace FasterGames.Aseprite.Editor.Importers
     public class TextureSpriteImporter : BaseImporter<AseFile, Dictionary<string, List<Sprite>>>
     {
         [Serializable]
+        public class SliceOptions
+        {
+            public Vector2Int cellSize;
+            public Vector2Int cellPadding;
+        }
+        
+        [Serializable]
         public class UserOptions
         {
             // use a seamless cubemap?
@@ -38,6 +45,9 @@ namespace FasterGames.Aseprite.Editor.Importers
 
             //     Sprite texture import mode.
             public SpriteImportMode spriteMode = SpriteImportMode.Multiple;
+
+            // Slice mode for multiple sprite importing
+            public SliceOptions sliceOptions;
 
             //     The number of pixels in the sprite that correspond to one unit in world space.
             public float spritePixelsPerUnit = 100;
@@ -204,7 +214,7 @@ namespace FasterGames.Aseprite.Editor.Importers
             try
             {
                 // cheat to detect if this is our first import
-                var res = GenerateSprite(Texture2D.redTexture, "firstImportDetector", assetPath);
+                var res = GenerateSprite(Texture2D.redTexture, "firstImportDetector", assetPath, isDetectionPass: true);
                 Object.DestroyImmediate(res.texture);
             }
             catch (Exception)
@@ -280,7 +290,7 @@ namespace FasterGames.Aseprite.Editor.Importers
             return layerSpritesByName;
         }
         
-        private TextureGenerationOutput GenerateSprite(Texture2D tex2D, string spriteName, string path)
+        private TextureGenerationOutput GenerateSprite(Texture2D tex2D, string spriteName, string path, bool isDetectionPass = false)
         {
             SourceTextureInformation textureInformation = new SourceTextureInformation()
             {
@@ -294,23 +304,50 @@ namespace FasterGames.Aseprite.Editor.Importers
             {
                 overridden = false
             };
+
+            var cellSize = m_UserOptions.sliceOptions.cellSize == Vector2Int.zero
+                ? new Vector2Int(tex2D.width, tex2D.height)
+                : m_UserOptions.sliceOptions.cellSize;
+
+            var cellPadding = m_UserOptions.sliceOptions.cellPadding;
+
+            // always ignore user settings for detection
+            if (isDetectionPass)
+            {
+                cellSize = new Vector2Int(tex2D.width, tex2D.height);
+                cellPadding = Vector2Int.zero;
+            }
+            
+            // gather the sprite import data
+            var spriteImportData = new List<SpriteImportData>();
+
+            int xIndex = 0, yIndex = 0;
+            for (var x = 0; x < tex2D.width; x += cellSize.x + cellPadding.x)
+            {
+                for (var y = 0; y < tex2D.height; y += cellSize.y + cellPadding.y)
+                {
+                    var cellDims = new Rect(x, y, cellSize.x, cellSize.y);
+                    spriteImportData.Add(new SpriteImportData()
+                    {
+                        alignment = SpriteAlignment.Center,
+                        border = Vector4.zero,
+                        name = $"{spriteName}-{xIndex}.{yIndex}",
+                        pivot = new Vector2(0.5f, 0.5f),
+                        rect = cellDims,
+                        spriteID = $"{spriteName}-{xIndex}.{yIndex}",
+                        tessellationDetail = 1,
+                    });
+                    yIndex++;
+                }
+
+                yIndex = 0;
+                xIndex++;
+            }
             
             TextureGenerationSettings settings = new TextureGenerationSettings()
             {
                 assetPath = path,
-                spriteImportData = new []
-                {
-                    new SpriteImportData()
-                    {
-                        alignment = SpriteAlignment.Center,
-                        border = Vector4.zero,
-                        name = spriteName,
-                        pivot = new Vector2(0.5f, 0.5f),
-                        rect = new Rect(0, 0, tex2D.width, tex2D.height),
-                        spriteID = spriteName,
-                        tessellationDetail = 1,
-                    }
-                },
+                spriteImportData = spriteImportData.ToArray(),
                 textureImporterSettings = m_UserOptions.ToImporterSettings(),
                 enablePostProcessor = false,
                 sourceTextureInformation = textureInformation,
