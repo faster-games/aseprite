@@ -54,7 +54,7 @@
       "output": {
         ".html": {
           "relative_path": "manual/getting-started.html",
-          "hash": "K1PSfOlhFaFtQ+4bj89nrg=="
+          "hash": "046vWRVOFmojWaT6Ve98gA=="
         }
       },
       "is_incremental": false,
@@ -150,7 +150,7 @@
       "output": {
         ".html": {
           "relative_path": "ref/FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.UserOptions.html",
-          "hash": "J10sPWPlvNamtBOBSEdmHg=="
+          "hash": "GKixgDyr+oKH5BSOuYBa4w=="
         }
       },
       "is_incremental": false,
@@ -206,11 +206,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.SliceOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.SliceOptions.html",
+          "hash": "XeOQddBgfUY+kdrbo+fMaw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "dist/.tmp/ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.yml",
       "output": {
         ".html": {
           "relative_path": "ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html",
-          "hash": "UGlAYE81Jhe2cVo0HqAxag=="
+          "hash": "aeH8x+Y1xORhbNZkfmbtPQ=="
         }
       },
       "is_incremental": false,
@@ -234,7 +246,7 @@
       "output": {
         ".html": {
           "relative_path": "ref/FasterGames.Aseprite.Editor.Importers.html",
-          "hash": "GfrMnK5iTergwl1LweUguA=="
+          "hash": "KUrDlZlECr7/f4wR0T9IfA=="
         }
       },
       "is_incremental": false,
@@ -666,7 +678,7 @@
       "output": {
         ".html": {
           "relative_path": "ref/toc.html",
-          "hash": "exfTv8GqQlCdHPL9W7c8EA=="
+          "hash": "b3V6H0frKy/OHgCuQ5yVxQ=="
         }
       },
       "is_incremental": false,
@@ -693,7 +705,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 47,
+          "total_file_count": 48,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {

@@ -197,6 +197,12 @@ references:
   commentId: T:FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.UserOptions
   fullName: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.UserOptions
   nameWithType: AnimationRigImporter.UserOptions
+- uid: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.UserOptions.createRig
+  name: createRig
+  href: ref/FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_AnimationRigImporter_UserOptions_createRig
+  commentId: F:FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.UserOptions.createRig
+  fullName: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.UserOptions.createRig
+  nameWithType: AnimationRigImporter.UserOptions.createRig
 - uid: FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.UserOptions.loopTags
   name: loopTags
   href: ref/FasterGames.Aseprite.Editor.Importers.AnimationRigImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_AnimationRigImporter_UserOptions_loopTags
@@ -345,6 +351,24 @@ references:
   isSpec: "True"
   fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.ImportAsset
   nameWithType: TextureSpriteImporter.ImportAsset
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.SliceOptions
+  name: TextureSpriteImporter.SliceOptions
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.SliceOptions.html
+  commentId: T:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.SliceOptions
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.SliceOptions
+  nameWithType: TextureSpriteImporter.SliceOptions
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.SliceOptions.cellPadding
+  name: cellPadding
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.SliceOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_SliceOptions_cellPadding
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.SliceOptions.cellPadding
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.SliceOptions.cellPadding
+  nameWithType: TextureSpriteImporter.SliceOptions.cellPadding
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.SliceOptions.cellSize
+  name: cellSize
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.SliceOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_SliceOptions_cellSize
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.SliceOptions.cellSize
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.SliceOptions.cellSize
+  nameWithType: TextureSpriteImporter.SliceOptions.cellSize
 - uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.TryCanImportInto(System.String)
   name: TryCanImportInto(String)
   href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_TryCanImportInto_System_String_
@@ -496,6 +520,12 @@ references:
   commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.singleChannelComponent
   fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.singleChannelComponent
   nameWithType: TextureSpriteImporter.UserOptions.singleChannelComponent
+- uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.sliceOptions
+  name: sliceOptions
+  href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_sliceOptions
+  commentId: F:FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.sliceOptions
+  fullName: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.sliceOptions
+  nameWithType: TextureSpriteImporter.UserOptions.sliceOptions
 - uid: FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.spriteAlignment
   name: spriteAlignment
   href: ref/FasterGames.Aseprite.Editor.Importers.TextureSpriteImporter.UserOptions.html#FasterGames_Aseprite_Editor_Importers_TextureSpriteImporter_UserOptions_spriteAlignment

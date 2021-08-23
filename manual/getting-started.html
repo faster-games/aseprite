@@ -79,9 +79,13 @@
 </ul>
 <h3 id="texture-options">Texture Options</h3>
 <p>The texture settings Unity will use for Texture import. See <a href="https://docs.unity3d.com/Manual/class-TextureImporter.html">Unity Docs: Texture Import Settings</a></p>
+<ul>
+<li><code>sliceOptions</code> - Extension to the default set, used to control Spritesheet dimension data, in the event you are importing a spritesheet. Leaving as default (<code>0</code>s) will import as one sprite per layer. Slicing will import as multiple sprites per layer.</li>
+</ul>
 <h3 id="rig-options">Rig Options</h3>
 <p>Options for controlling animation and rigging generation.</p>
 <ul>
+<li><code>Create Rig</code> - If disabled, no rig (animations, avatars, etc) will be created.</li>
 <li><code>loopTags</code> - Controls which frame tags from the aseprite file will import as looping animations. By default, all animations are non-looping.</li>
 </ul>
 </article>
