@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/faster-games/aseprite/compare/v1.1.0...v1.2.0) (2021-08-23)
+
+
+### Features
+
+* **slicing:** Improve slicing 🔪 ([#1](https://github.com/faster-games/aseprite/issues/1)) ([cc271d3](https://github.com/faster-games/aseprite/commit/cc271d38a40d9451a62d6d31c3a0c3d565ebe7f2))
+
 # [1.1.0](https://github.com/faster-games/aseprite/compare/v1.0.0...v1.1.0) (2021-08-16)
 
 

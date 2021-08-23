@@ -1,7 +1,7 @@
 {
   "name": "com.faster-games.aseprite",
   "displayName": "Aseprite Importer",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "unity": "2019.2",
   "unityRelease": "0f1",
   "description": "An Aseprite importer for Unity3D. 🎨📤",
